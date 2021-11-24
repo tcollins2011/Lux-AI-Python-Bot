@@ -1,0 +1,9 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\tyler\Desktop\Python Work\Lux-AI_Competition\Lux-Design-2021\kits\python\intermediate\main.py", line 32, in <module>
+    actions = agent(observation, None)
+  File "C:\Users\tyler\Desktop\Python Work\Lux-AI_Competition\Lux-Design-2021\kits\python\intermediate\agent.py", line 148, in agent
+    if len(workers) / len(city_tiles) >= 0.75:
+ZeroDivisionError: division by zero

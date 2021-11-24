@@ -1,0 +1,10 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\tyler\Desktop\Python Work\Lux-AI_Competition\Lux-Design-2021\kits\python\simple\main.py", line 32, in <module>
+    actions = agent(observation, None)
+  File "C:\Users\tyler\Desktop\Python Work\Lux-AI_Competition\Lux-Design-2021\kits\python\simple\agent.py", line 100, in agent
+    if build_location is None:
+UnboundLocalError: local variable 'build_location' referenced before assignment
+Agent timed out

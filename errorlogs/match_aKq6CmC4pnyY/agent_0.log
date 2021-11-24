@@ -1,0 +1,12 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\tyler\Desktop\Python Work\Lux-AI_Competition\Lux-Design-2021\kits\python\simple\main.py", line 32, in <module>
+    actions = agent(observation, None)
+  File "C:\Users\tyler\Desktop\Python Work\Lux-AI_Competition\Lux-Design-2021\kits\python\simple\agent.py", line 69, in agent
+    closest_resource_tile = get_close_resource(unit, resource_tiles, player)
+  File "C:\Users\tyler\Desktop\Python Work\Lux-AI_Competition\Lux-Design-2021\kits\python\simple\agent.py", line 25, in get_close_resource
+    if resource_tile.resource.type == Constants.RESOURCE_TYPES.COAL and not player.researched_coal(): continue
+NameError: name 'player' is not defined
+Agent timed out

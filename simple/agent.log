@@ -1,0 +1,1552 @@
+dict_values([<lux.game_objects.City object at 0x000002423FC40400>])
+[<lux.game_objects.CityTile object at 0x000002423FC40490>]
+dict_values([<lux.game_objects.City object at 0x00000288015402E0>])
+[<lux.game_objects.CityTile object at 0x0000028801541450>]
+dict_values([<lux.game_objects.City object at 0x000002423FC402B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC414E0>]
+dict_values([<lux.game_objects.City object at 0x000002880156E7D0>])
+[<lux.game_objects.CityTile object at 0x000002880156E890>]
+we want to build a city!
+2 : Checking: <lux.game_map.Cell object at 0x0000028801558940>
+2 : Found build location: <lux.game_map.Cell object at 0x000002423FC59900>
+2 : Found build location: <lux.game_map.Cell object at 0x0000028801559A80>
+dict_values([<lux.game_objects.City object at 0x000002423FC437C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC43910>]
+dict_values([<lux.game_objects.City object at 0x00000288014E71C0>])
+[<lux.game_objects.CityTile object at 0x00000288014E6EF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7A30>])
+[<lux.game_objects.CityTile object at 0x000002423FBE69E0>]
+dict_values([<lux.game_objects.City object at 0x00000288015584C0>])
+[<lux.game_objects.CityTile object at 0x0000028801558580>]
+we want to build a city!
+5 : Navigating to where we wish to build
+5 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880156BC70>])
+[<lux.game_objects.CityTile object at 0x000002880156BD30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6BD60>])
+[<lux.game_objects.CityTile object at 0x000002423FC6BD00>]
+dict_values([<lux.game_objects.City object at 0x000002880155AA10>])
+[<lux.game_objects.CityTile object at 0x000002880155AAD0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5AAA0>])
+[<lux.game_objects.CityTile object at 0x000002423FC5AB00>]
+we want to build a city!
+7 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC36110>])
+[<lux.game_objects.CityTile object at 0x000002423FC36230>]
+dict_values([<lux.game_objects.City object at 0x000002880153A0E0>])
+[<lux.game_objects.CityTile object at 0x000002880153A1A0>]
+we want to build a city!
+8 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801560DF0>])
+[<lux.game_objects.CityTile object at 0x0000028801560EB0>]
+we want to build a city!
+dict_values([<lux.game_objects.City object at 0x0000028801542440>])
+[<lux.game_objects.CityTile object at 0x0000028801542680>, <lux.game_objects.CityTile object at 0x0000028801542920>]
+dict_values([<lux.game_objects.City object at 0x000002423FC42650>])
+[<lux.game_objects.CityTile object at 0x000002423FC420E0>]
+dict_values([<lux.game_objects.City object at 0x0000028801533190>])
+[<lux.game_objects.CityTile object at 0x0000028801533250>, <lux.game_objects.CityTile object at 0x00000288015332E0>]
+we want to build a city!
+11 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801556BC0>])
+[<lux.game_objects.CityTile object at 0x0000028801556C80>, <lux.game_objects.CityTile object at 0x0000028801556CB0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC56C20>])
+[<lux.game_objects.CityTile object at 0x000002423FC56D70>]
+dict_values([<lux.game_objects.City object at 0x00000288014E6CE0>])
+[<lux.game_objects.CityTile object at 0x00000288014E7160>, <lux.game_objects.CityTile object at 0x00000288014E7250>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE72B0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE7C10>]
+dict_values([<lux.game_objects.City object at 0x0000028801574FA0>])
+[<lux.game_objects.CityTile object at 0x0000028801575060>, <lux.game_objects.CityTile object at 0x0000028801575300>]
+dict_values([<lux.game_objects.City object at 0x000002423FC75090>])
+[<lux.game_objects.CityTile object at 0x000002423FC753C0>]
+we want to build a city!
+14 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880154DDE0>])
+[<lux.game_objects.CityTile object at 0x000002880154DEA0>, <lux.game_objects.CityTile object at 0x000002880154DDB0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4DF90>])
+[<lux.game_objects.CityTile object at 0x000002423FC4DF30>]
+dict_values([<lux.game_objects.City object at 0x0000028801524A90>])
+[<lux.game_objects.CityTile object at 0x0000028801524B50>, <lux.game_objects.CityTile object at 0x0000028801524C40>]
+dict_values([<lux.game_objects.City object at 0x000002423FC44460>])
+[<lux.game_objects.CityTile object at 0x000002423FC44550>]
+dict_values([<lux.game_objects.City object at 0x00000288015456F0>])
+[<lux.game_objects.CityTile object at 0x00000288015457B0>, <lux.game_objects.CityTile object at 0x0000028801545840>]
+we want to build a city!
+17 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880151C4C0>])
+[<lux.game_objects.CityTile object at 0x000002880151C580>, <lux.game_objects.CityTile object at 0x000002880151C610>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58910>])
+[<lux.game_objects.CityTile object at 0x000002423FC5B130>]
+dict_values([<lux.game_objects.City object at 0x0000028801540790>])
+[<lux.game_objects.CityTile object at 0x00000288015437C0>, <lux.game_objects.CityTile object at 0x00000288015439A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC46920>])
+[<lux.game_objects.CityTile object at 0x000002423FC46A40>]
+dict_values([<lux.game_objects.City object at 0x000002880151EA10>])
+[<lux.game_objects.CityTile object at 0x000002880151EAD0>, <lux.game_objects.CityTile object at 0x000002880151EB00>]
+dict_values([<lux.game_objects.City object at 0x000002423FC195A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC196C0>]
+we want to build a city!
+20 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801542C20>])
+[<lux.game_objects.CityTile object at 0x0000028801541DB0>, <lux.game_objects.CityTile object at 0x0000028801543070>]
+dict_values([<lux.game_objects.City object at 0x000002423FC434F0>])
+[<lux.game_objects.CityTile object at 0x000002423FC42E60>]
+dict_values([<lux.game_objects.City object at 0x0000028801518EE0>])
+[<lux.game_objects.CityTile object at 0x0000028801518FA0>, <lux.game_objects.CityTile object at 0x00000288015190F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6F9D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC6FAC0>]
+dict_values([<lux.game_objects.City object at 0x0000028801569810>])
+[<lux.game_objects.CityTile object at 0x00000288015698D0>, <lux.game_objects.CityTile object at 0x0000028801569900>]
+dict_values([<lux.game_objects.City object at 0x000002423FC172E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC17670>]
+we want to build a city!
+23 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288014E58A0>])
+[<lux.game_objects.CityTile object at 0x00000288014E75E0>, <lux.game_objects.CityTile object at 0x00000288014E6AA0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE67D0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE64D0>]
+dict_values([<lux.game_objects.City object at 0x0000028801539F90>])
+[<lux.game_objects.CityTile object at 0x000002880153A080>, <lux.game_objects.CityTile object at 0x000002880153A140>]
+dict_values([<lux.game_objects.City object at 0x000002423FC36200>])
+[<lux.game_objects.CityTile object at 0x000002423FC35C90>]
+dict_values([<lux.game_objects.City object at 0x000002423FC2CA00>])
+[<lux.game_objects.CityTile object at 0x000002423FC2CA60>]
+lux.game_objects.CityTile object at 0x0000028801558040>]
+we want to build a city!
+26 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC345E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC34280>]
+lux.game_objects.CityTile object at 0x00000288015395D0>]
+dict_values([<lux.game_objects.City object at 0x0000028801577B50>])
+[<lux.game_objects.CityTile object at 0x0000028801574D90>, <lux.game_objects.CityTile object at 0x0000028801574040>]
+dict_values([<lux.game_objects.City object at 0x000002423FC74310>])
+[<lux.game_objects.CityTile object at 0x000002423FC75000>]
+dict_values([<lux.game_objects.City object at 0x0000028801554790>])
+[<lux.game_objects.CityTile object at 0x0000028801554850>, <lux.game_objects.CityTile object at 0x0000028801554940>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B4C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC58F10>]
+we want to build a city!
+29 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880154FB50>])
+[<lux.game_objects.CityTile object at 0x000002880154FC10>, <lux.game_objects.CityTile object at 0x000002880154FE20>]
+dict_values([<lux.game_objects.City object at 0x000002423FC42CB0>])
+[<lux.game_objects.CityTile object at 0x000002423FC421D0>]
+dict_values([<lux.game_objects.City object at 0x00000288015255A0>])
+[<lux.game_objects.CityTile object at 0x00000288015261D0>, <lux.game_objects.CityTile object at 0x00000288015253F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC598D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC58B50>]
+dict_values([<lux.game_objects.City object at 0x00000288015434F0>])
+[<lux.game_objects.CityTile object at 0x00000288015429E0>, <lux.game_objects.CityTile object at 0x0000028801540D00>]
+dict_values([<lux.game_objects.City object at 0x000002423FC43C10>])
+[<lux.game_objects.CityTile object at 0x000002423FC41090>]
+dict_values([<lux.game_objects.City object at 0x0000028801544F10>])
+[<lux.game_objects.CityTile object at 0x0000028801545210>, <lux.game_objects.CityTile object at 0x0000028801544D60>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7850>])
+[<lux.game_objects.CityTile object at 0x000002423FBE4910>]
+dict_values([<lux.game_objects.City object at 0x00000288015414B0>])
+[<lux.game_objects.CityTile object at 0x0000028801540640>, <lux.game_objects.CityTile object at 0x0000028801542F20>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1AAD0>])
+[<lux.game_objects.CityTile object at 0x000002423FC1A680>]
+dict_values([<lux.game_objects.City object at 0x00000288014E5720>])
+[<lux.game_objects.CityTile object at 0x00000288014E7190>, <lux.game_objects.CityTile object at 0x00000288014E72B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC61FC0>])
+[<lux.game_objects.CityTile object at 0x000002423FC62620>]
+dict_values([<lux.game_objects.City object at 0x0000028801561840>])
+[<lux.game_objects.CityTile object at 0x0000028801560F10>, <lux.game_objects.CityTile object at 0x0000028801561BD0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC34E80>])
+[<lux.game_objects.CityTile object at 0x000002423FC35030>]
+dict_values([<lux.game_objects.City object at 0x000002880156CC70>])
+[<lux.game_objects.CityTile object at 0x000002880156D1E0>, <lux.game_objects.CityTile object at 0x000002880156DEA0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6DA80>])
+[<lux.game_objects.CityTile object at 0x000002423FC6D1E0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC17A90>])
+[<lux.game_objects.CityTile object at 0x000002423FC17220>]
+lux.game_objects.CityTile object at 0x0000028801569FC0>]
+dict_values([<lux.game_objects.City object at 0x000002880152D120>])
+[<lux.game_objects.CityTile object at 0x000002880152D1E0>, <lux.game_objects.CityTile object at 0x000002880152D330>]
+dict_values([<lux.game_objects.City object at 0x000002423FC74E20>])
+[<lux.game_objects.CityTile object at 0x000002423FC767A0>]
+dict_values([<lux.game_objects.City object at 0x000002880156BC70>])
+[<lux.game_objects.CityTile object at 0x00000288015689D0>, <lux.game_objects.CityTile object at 0x00000288015689A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC2AE00>])
+[<lux.game_objects.CityTile object at 0x000002423FC2AE60>]
+dict_values([<lux.game_objects.City object at 0x000002423FC74B80>])
+[<lux.game_objects.CityTile object at 0x000002423FC74970>]
+dict_values([<lux.game_objects.City object at 0x0000028801537550>])
+[<lux.game_objects.CityTile object at 0x0000028801537610>, <lux.game_objects.CityTile object at 0x0000028801537730>]
+we want to build a city!
+41 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880153B0D0>])
+[<lux.game_objects.CityTile object at 0x000002880153BDF0>, <lux.game_objects.CityTile object at 0x000002880153BCA0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1D150>])
+[<lux.game_objects.CityTile object at 0x000002423FC1D1E0>]
+dict_values([<lux.game_objects.City object at 0x000002880155B730>])
+[<lux.game_objects.CityTile object at 0x000002880155BFA0>, <lux.game_objects.CityTile object at 0x0000028801559BD0>]
+dict_values([<lux.game_objects.City object at 0x00000288015553C0>])
+[<lux.game_objects.CityTile object at 0x0000028801555DB0>, <lux.game_objects.CityTile object at 0x00000288015563E0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58BE0>])
+[<lux.game_objects.CityTile object at 0x000002423FC59690>]
+we want to build a city!
+44 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801543F40>])
+[<lux.game_objects.CityTile object at 0x0000028801541F30>, <lux.game_objects.CityTile object at 0x0000028801540EE0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC409D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC41000>]
+dict_values([<lux.game_objects.City object at 0x000002880154F4C0>])
+[<lux.game_objects.CityTile object at 0x000002880154E1A0>, <lux.game_objects.CityTile object at 0x000002880154F700>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B880>])
+[<lux.game_objects.CityTile object at 0x000002423FC5AA40>]
+dict_values([<lux.game_objects.City object at 0x0000028801540E80>])
+[<lux.game_objects.CityTile object at 0x0000028801543280>, <lux.game_objects.CityTile object at 0x00000288015426B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41DB0>])
+[<lux.game_objects.CityTile object at 0x000002423FC430D0>]
+we want to build a city!
+47 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288014E6950>])
+[<lux.game_objects.CityTile object at 0x00000288014E7D00>, <lux.game_objects.CityTile object at 0x00000288014E6B00>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE77F0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE70D0>]
+dict_values([<lux.game_objects.City object at 0x00000288015630D0>])
+[<lux.game_objects.CityTile object at 0x0000028801563B50>, <lux.game_objects.CityTile object at 0x0000028801560430>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4C910>])
+[<lux.game_objects.CityTile object at 0x000002423FC4C7F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6DC30>])
+[<lux.game_objects.CityTile object at 0x000002423FC6DCC0>]
+dict_values([<lux.game_objects.City object at 0x000002880151DF60>])
+[<lux.game_objects.CityTile object at 0x0000028801544E80>, <lux.game_objects.CityTile object at 0x0000028801545000>]
+we want to build a city!
+50 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801560640>])
+[<lux.game_objects.CityTile object at 0x00000288015629E0>, <lux.game_objects.CityTile object at 0x0000028801560370>]
+dict_values([<lux.game_objects.City object at 0x000002423FC17250>])
+[<lux.game_objects.CityTile object at 0x000002423FC15DE0>]
+dict_values([<lux.game_objects.City object at 0x00000288015461A0>])
+[<lux.game_objects.CityTile object at 0x0000028801547EB0>, <lux.game_objects.CityTile object at 0x0000028801547DC0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC35960>])
+[<lux.game_objects.CityTile object at 0x000002423FC34250>]
+dict_values([<lux.game_objects.City object at 0x0000028801569480>])
+[<lux.game_objects.CityTile object at 0x0000028801569540>, <lux.game_objects.CityTile object at 0x00000288015694B0>]
+dict_values([<lux.game_objects.City object at 0x000002423F79D6F0>])
+[<lux.game_objects.CityTile object at 0x000002423FC760B0>]
+we want to build a city!
+53 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880157A0B0>])
+[<lux.game_objects.CityTile object at 0x000002880157A170>, <lux.game_objects.CityTile object at 0x000002880157A290>]
+dict_values([<lux.game_objects.City object at 0x000002423FC74670>])
+[<lux.game_objects.CityTile object at 0x000002423FC763B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801576080>])
+[<lux.game_objects.CityTile object at 0x0000028801576950>, <lux.game_objects.CityTile object at 0x0000028801576770>]
+dict_values([<lux.game_objects.City object at 0x000002423FC29DB0>])
+[<lux.game_objects.CityTile object at 0x000002423FC29F00>]
+dict_values([<lux.game_objects.City object at 0x000002880156DDE0>])
+[<lux.game_objects.CityTile object at 0x000002880156DEA0>, <lux.game_objects.CityTile object at 0x000002880156DF00>]
+dict_values([<lux.game_objects.City object at 0x000002423FC623E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC624A0>]
+we want to build a city!
+56 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC58340>])
+[<lux.game_objects.CityTile object at 0x000002423FC5B370>]
+dict_values([<lux.game_objects.City object at 0x000002880153AC80>])
+[<lux.game_objects.CityTile object at 0x000002880153B040>, <lux.game_objects.CityTile object at 0x000002880153A2F0>]
+dict_values([<lux.game_objects.City object at 0x0000028801535330>])
+[<lux.game_objects.CityTile object at 0x00000288015353F0>, <lux.game_objects.CityTile object at 0x0000028801535450>]
+dict_values([<lux.game_objects.City object at 0x000002423FC601F0>])
+[<lux.game_objects.CityTile object at 0x000002423FC60250>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B400>])
+[<lux.game_objects.CityTile object at 0x000002423FC59B70>]
+lux.game_objects.CityTile object at 0x0000028801556EF0>]
+we want to build a city!
+59 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801541FF0>])
+[<lux.game_objects.CityTile object at 0x0000028801541420>, <lux.game_objects.CityTile object at 0x0000028801541F30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC435E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC40970>]
+dict_values([<lux.game_objects.City object at 0x000002880155A7D0>])
+[<lux.game_objects.CityTile object at 0x0000028801559870>, <lux.game_objects.CityTile object at 0x000002880155A590>]
+dict_values([<lux.game_objects.City object at 0x000002423FC47F70>])
+[<lux.game_objects.CityTile object at 0x000002423FC44D30>]
+dict_values([<lux.game_objects.City object at 0x00000288015439D0>])
+[<lux.game_objects.CityTile object at 0x0000028801543C40>, <lux.game_objects.CityTile object at 0x0000028801543E20>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41120>])
+[<lux.game_objects.CityTile object at 0x000002423FC43D00>]
+we want to build a city!
+62 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288014E74F0>])
+[<lux.game_objects.CityTile object at 0x00000288014E7040>, <lux.game_objects.CityTile object at 0x00000288014E69B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7A140>])
+[<lux.game_objects.CityTile object at 0x000002423FC79FF0>]
+dict_values([<lux.game_objects.City object at 0x00000288015614E0>])
+[<lux.game_objects.CityTile object at 0x0000028801561720>, <lux.game_objects.CityTile object at 0x00000288015606D0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7E20>])
+[<lux.game_objects.CityTile object at 0x000002423FBE7130>]
+dict_values([<lux.game_objects.City object at 0x000002880151D900>])
+[<lux.game_objects.CityTile object at 0x000002880151E500>, <lux.game_objects.CityTile object at 0x000002880151D750>]
+dict_values([<lux.game_objects.City object at 0x000002423FC19030>])
+[<lux.game_objects.CityTile object at 0x000002423FC1A590>]
+we want to build a city!
+65 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC17DF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC15AB0>]
+dict_values([<lux.game_objects.City object at 0x0000028801563010>])
+[<lux.game_objects.CityTile object at 0x0000028801560D30>, <lux.game_objects.CityTile object at 0x0000028801562DD0>]
+dict_values([<lux.game_objects.City object at 0x000002880151F520>])
+[<lux.game_objects.CityTile object at 0x000002880151F5E0>, <lux.game_objects.CityTile object at 0x000002880151F730>]
+dict_values([<lux.game_objects.City object at 0x000002423FC766E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC74A30>]
+dict_values([<lux.game_objects.City object at 0x000002880156A920>])
+[<lux.game_objects.CityTile object at 0x000002880156A9E0>, <lux.game_objects.CityTile object at 0x000002880156AA10>]
+dict_values([<lux.game_objects.City object at 0x000002423FC74850>])
+[<lux.game_objects.CityTile object at 0x000002423FC76200>]
+we want to build a city!
+68 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801578BB0>])
+[<lux.game_objects.CityTile object at 0x0000028801578EB0>, <lux.game_objects.CityTile object at 0x0000028801578FA0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC60430>])
+[<lux.game_objects.CityTile object at 0x000002423FC61750>]
+dict_values([<lux.game_objects.City object at 0x0000028801576D70>])
+[<lux.game_objects.CityTile object at 0x00000288015766E0>, <lux.game_objects.CityTile object at 0x00000288015769B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5A350>])
+[<lux.game_objects.CityTile object at 0x000002423FC58E50>]
+dict_values([<lux.game_objects.City object at 0x000002423FC608E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC60C10>]
+lux.game_objects.CityTile object at 0x0000028801546830>]
+dict_values([<lux.game_objects.City object at 0x0000028801539EA0>])
+[<lux.game_objects.CityTile object at 0x000002880153BC10>, <lux.game_objects.CityTile object at 0x0000028801538EE0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC589D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC586A0>]
+dict_values([<lux.game_objects.City object at 0x0000028801542E60>])
+[<lux.game_objects.CityTile object at 0x0000028801543970>, <lux.game_objects.CityTile object at 0x0000028801540DF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC42AD0>])
+[<lux.game_objects.CityTile object at 0x000002423FC40F70>]
+dict_values([<lux.game_objects.City object at 0x000002880156C490>])
+[<lux.game_objects.CityTile object at 0x000002880156E2F0>, <lux.game_objects.CityTile object at 0x000002880156E500>]
+dict_values([<lux.game_objects.City object at 0x000002423FC35AB0>])
+[<lux.game_objects.CityTile object at 0x000002423FC37940>]
+dict_values([<lux.game_objects.City object at 0x00000288015553F0>])
+[<lux.game_objects.CityTile object at 0x0000028801555AB0>, <lux.game_objects.CityTile object at 0x00000288015555D0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7130>])
+[<lux.game_objects.CityTile object at 0x000002423FBE71C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7BD00>])
+[<lux.game_objects.CityTile object at 0x000002423FC7BBE0>]
+dict_values([<lux.game_objects.City object at 0x0000028801554F40>])
+[<lux.game_objects.CityTile object at 0x0000028801554790>, <lux.game_objects.CityTile object at 0x0000028801554460>]
+dict_values([<lux.game_objects.City object at 0x0000028801535C00>])
+[<lux.game_objects.CityTile object at 0x0000028801537AF0>, <lux.game_objects.CityTile object at 0x0000028801534E80>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1D4B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC1CFA0>]
+dict_values([<lux.game_objects.City object at 0x00000288014E6E00>])
+[<lux.game_objects.CityTile object at 0x00000288014E5F90>, <lux.game_objects.CityTile object at 0x00000288014E7EE0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7A410>])
+[<lux.game_objects.CityTile object at 0x000002423FC4D570>]
+dict_values([<lux.game_objects.City object at 0x000002880154E5F0>])
+[<lux.game_objects.CityTile object at 0x000002880154FE80>, <lux.game_objects.CityTile object at 0x000002880154EA40>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4FA90>])
+[<lux.game_objects.CityTile object at 0x000002423FC4F7F0>]
+dict_values([<lux.game_objects.City object at 0x000002880151CD30>])
+[<lux.game_objects.CityTile object at 0x000002880151C0D0>, <lux.game_objects.CityTile object at 0x000002880151E2F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC721A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC71E40>]
+dict_values([<lux.game_objects.City object at 0x0000028801527820>])
+[<lux.game_objects.CityTile object at 0x0000028801527580>, <lux.game_objects.CityTile object at 0x0000028801526F80>]
+dict_values([<lux.game_objects.City object at 0x000002423FC74310>])
+[<lux.game_objects.CityTile object at 0x000002423FC76A40>]
+we want to build a city!
+81 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880151C4C0>])
+[<lux.game_objects.CityTile object at 0x000002880151E170>, <lux.game_objects.CityTile object at 0x000002880151C5B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801561E10>])
+[<lux.game_objects.CityTile object at 0x00000288015638B0>, <lux.game_objects.CityTile object at 0x0000028801563F40>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5BA60>])
+[<lux.game_objects.CityTile object at 0x000002423FC5BAC0>]
+dict_values([<lux.game_objects.City object at 0x000002880157A770>])
+[<lux.game_objects.CityTile object at 0x0000028801579390>, <lux.game_objects.CityTile object at 0x000002880157A680>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6E740>])
+[<lux.game_objects.CityTile object at 0x000002423FC6D750>]
+we want to build a city!
+84 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880153BC10>])
+[<lux.game_objects.CityTile object at 0x000002880153A200>, <lux.game_objects.CityTile object at 0x000002880153B3D0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC596C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC5A3E0>]
+dict_values([<lux.game_objects.City object at 0x0000028801540100>])
+[<lux.game_objects.CityTile object at 0x00000288015420B0>, <lux.game_objects.CityTile object at 0x00000288015431C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7340>])
+[<lux.game_objects.CityTile object at 0x000002423FBE7700>]
+dict_values([<lux.game_objects.City object at 0x000002880153B070>])
+[<lux.game_objects.CityTile object at 0x000002880153A500>, <lux.game_objects.CityTile object at 0x000002880153BCA0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41CF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC435E0>]
+we want to build a city!
+87 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC2B8B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC2BC40>]
+lux.game_objects.CityTile object at 0x00000288015438B0>]
+dict_values([<lux.game_objects.City object at 0x00000288014E6410>])
+[<lux.game_objects.CityTile object at 0x00000288014E7A00>, <lux.game_objects.CityTile object at 0x00000288014E7760>]
+dict_values([<lux.game_objects.City object at 0x000002423FC36200>])
+[<lux.game_objects.CityTile object at 0x000002423FC34190>]
+dict_values([<lux.game_objects.City object at 0x0000028801569600>])
+[<lux.game_objects.CityTile object at 0x0000028801569B10>, <lux.game_objects.CityTile object at 0x000002880156A0B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC451E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC45930>]
+we want to build a city!
+90 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880156D600>])
+[<lux.game_objects.CityTile object at 0x000002880156D8A0>, <lux.game_objects.CityTile object at 0x000002880156D630>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7A740>])
+[<lux.game_objects.CityTile object at 0x000002423FC78940>]
+dict_values([<lux.game_objects.City object at 0x000002880154CB50>])
+[<lux.game_objects.CityTile object at 0x000002880154F1F0>, <lux.game_objects.CityTile object at 0x000002880154EC50>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7A1D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC7B730>]
+dict_values([<lux.game_objects.City object at 0x00000288015371F0>])
+[<lux.game_objects.CityTile object at 0x0000028801535EA0>, <lux.game_objects.CityTile object at 0x00000288015371C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC17A00>])
+[<lux.game_objects.CityTile object at 0x000002423FC173D0>]
+we want to build a city!
+93 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC4E680>])
+[<lux.game_objects.CityTile object at 0x000002423FC4E2C0>]
+lux.game_objects.CityTile object at 0x000002880154D840>]
+dict_values([<lux.game_objects.City object at 0x000002423FC62590>])
+[<lux.game_objects.CityTile object at 0x000002423FC638B0>]
+lux.game_objects.CityTile object at 0x0000028801557730>]
+dict_values([<lux.game_objects.City object at 0x0000028801524FA0>])
+[<lux.game_objects.CityTile object at 0x0000028801527760>, <lux.game_objects.CityTile object at 0x0000028801525480>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4FF40>])
+[<lux.game_objects.CityTile object at 0x000002423FC4CE20>]
+we want to build a city!
+96 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880151C310>])
+[<lux.game_objects.CityTile object at 0x000002880151C5E0>, <lux.game_objects.CityTile object at 0x000002880151EAA0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC72C80>])
+[<lux.game_objects.CityTile object at 0x000002423FC73490>]
+dict_values([<lux.game_objects.City object at 0x0000028801560A00>])
+[<lux.game_objects.CityTile object at 0x0000028801563550>, <lux.game_objects.CityTile object at 0x0000028801561AB0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B490>])
+[<lux.game_objects.CityTile object at 0x000002423FC5A770>]
+dict_values([<lux.game_objects.City object at 0x0000028801543940>])
+[<lux.game_objects.CityTile object at 0x0000028801540CD0>, <lux.game_objects.CityTile object at 0x00000288015423B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC77790>])
+[<lux.game_objects.CityTile object at 0x000002423FC77130>]
+we want to build a city!
+99 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288015394B0>])
+[<lux.game_objects.CityTile object at 0x0000028801538310>, <lux.game_objects.CityTile object at 0x0000028801539B10>]
+dict_values([<lux.game_objects.City object at 0x000002423FC43850>])
+[<lux.game_objects.CityTile object at 0x000002423FC40F40>]
+dict_values([<lux.game_objects.City object at 0x0000028801543A30>])
+[<lux.game_objects.CityTile object at 0x0000028801542590>, <lux.game_objects.CityTile object at 0x00000288015408E0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7D30>])
+[<lux.game_objects.CityTile object at 0x000002423FC18E80>]
+dict_values([<lux.game_objects.City object at 0x0000028801579960>])
+[<lux.game_objects.CityTile object at 0x0000028801578160>, <lux.game_objects.CityTile object at 0x0000028801579720>]
+dict_values([<lux.game_objects.City object at 0x000002423FC424D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC41F30>]
+we want to build a city!
+102 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC18E50>])
+[<lux.game_objects.CityTile object at 0x000002423FC18EE0>]
+lux.game_objects.CityTile object at 0x00000288014E7B50>]
+dict_values([<lux.game_objects.City object at 0x000002880156E500>])
+[<lux.game_objects.CityTile object at 0x000002880156C4F0>, <lux.game_objects.CityTile object at 0x000002880156D630>]
+dict_values([<lux.game_objects.City object at 0x000002423FC37790>])
+[<lux.game_objects.CityTile object at 0x000002423FC37AC0>]
+dict_values([<lux.game_objects.City object at 0x000002880154F010>])
+[<lux.game_objects.CityTile object at 0x000002880154FC40>, <lux.game_objects.CityTile object at 0x000002880154C340>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6D300>])
+[<lux.game_objects.CityTile object at 0x000002423FC6FA60>]
+we want to build a city!
+105 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880156CBB0>])
+[<lux.game_objects.CityTile object at 0x000002880156D180>, <lux.game_objects.CityTile object at 0x000002880156E560>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1D300>])
+[<lux.game_objects.CityTile object at 0x000002423FC1D3F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4C880>])
+[<lux.game_objects.CityTile object at 0x000002423FC4DB40>]
+lux.game_objects.CityTile object at 0x000002880154E950>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7B430>])
+[<lux.game_objects.CityTile object at 0x000002423FC7B100>]
+lux.game_objects.CityTile object at 0x000002880155B0A0>]
+we want to build a city!
+108 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801558A00>])
+[<lux.game_objects.CityTile object at 0x00000288015589A0>, <lux.game_objects.CityTile object at 0x0000028801558160>]
+dict_values([<lux.game_objects.City object at 0x000002423FC154B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC16FE0>]
+dict_values([<lux.game_objects.City object at 0x0000028801535E40>])
+[<lux.game_objects.CityTile object at 0x0000028801535180>, <lux.game_objects.CityTile object at 0x0000028801535B40>]
+dict_values([<lux.game_objects.City object at 0x000002423FC173D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC17340>]
+dict_values([<lux.game_objects.City object at 0x0000028801575F00>])
+[<lux.game_objects.CityTile object at 0x0000028801574280>, <lux.game_objects.CityTile object at 0x00000288015777F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC29AB0>])
+[<lux.game_objects.CityTile object at 0x000002423FC29210>]
+dict_values([<lux.game_objects.City object at 0x00000288015400A0>])
+[<lux.game_objects.CityTile object at 0x0000028801543550>, <lux.game_objects.CityTile object at 0x00000288015415D0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC72170>])
+[<lux.game_objects.CityTile object at 0x000002423FC70130>]
+dict_values([<lux.game_objects.City object at 0x0000028801579000>])
+[<lux.game_objects.CityTile object at 0x0000028801579CC0>, <lux.game_objects.CityTile object at 0x0000028801578CD0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5AD10>])
+[<lux.game_objects.CityTile object at 0x000002423FC5BC40>]
+dict_values([<lux.game_objects.City object at 0x0000028801541F00>])
+[<lux.game_objects.CityTile object at 0x0000028801541D80>, <lux.game_objects.CityTile object at 0x0000028801541D20>]
+dict_values([<lux.game_objects.City object at 0x00000288015624D0>])
+[<lux.game_objects.CityTile object at 0x0000028801561120>, <lux.game_objects.CityTile object at 0x0000028801561FC0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5ABF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC5A2C0>]
+dict_values([<lux.game_objects.City object at 0x00000288014E6800>])
+[<lux.game_objects.CityTile object at 0x00000288014E78B0>, <lux.game_objects.CityTile object at 0x00000288014E5ED0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE71C0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE74C0>]
+dict_values([<lux.game_objects.City object at 0x0000028801538F70>])
+[<lux.game_objects.CityTile object at 0x0000028801539C30>, <lux.game_objects.CityTile object at 0x000002880153A410>]
+dict_values([<lux.game_objects.City object at 0x000002423FC40C40>])
+[<lux.game_objects.CityTile object at 0x000002423FC41870>]
+dict_values([<lux.game_objects.City object at 0x000002880154FF10>])
+[<lux.game_objects.CityTile object at 0x000002880154E740>, <lux.game_objects.CityTile object at 0x000002880154E440>]
+dict_values([<lux.game_objects.City object at 0x000002423FC770D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC77F10>]
+dict_values([<lux.game_objects.City object at 0x0000028801546410>])
+[<lux.game_objects.CityTile object at 0x0000028801544F40>, <lux.game_objects.CityTile object at 0x00000288015464A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41990>])
+[<lux.game_objects.CityTile object at 0x000002423FC41750>]
+dict_values([<lux.game_objects.City object at 0x000002880154EA10>])
+[<lux.game_objects.CityTile object at 0x000002880154C940>, <lux.game_objects.CityTile object at 0x000002880154C520>]
+dict_values([<lux.game_objects.City object at 0x000002880156BB50>])
+[<lux.game_objects.CityTile object at 0x000002880156B5E0>, <lux.game_objects.CityTile object at 0x0000028801568FD0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1F430>])
+[<lux.game_objects.CityTile object at 0x000002423FC1D330>]
+we want to build a city!
+121 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801559810>])
+[<lux.game_objects.CityTile object at 0x0000028801559AB0>, <lux.game_objects.CityTile object at 0x000002880155BC70>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4FD60>])
+[<lux.game_objects.CityTile object at 0x000002423FC4D9C0>]
+dict_values([<lux.game_objects.City object at 0x000002880157B310>])
+[<lux.game_objects.CityTile object at 0x000002880157A7A0>, <lux.game_objects.CityTile object at 0x000002880157B550>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1B970>])
+[<lux.game_objects.CityTile object at 0x000002423FC1B820>]
+dict_values([<lux.game_objects.City object at 0x0000028801574E50>])
+[<lux.game_objects.CityTile object at 0x0000028801575A80>, <lux.game_objects.CityTile object at 0x00000288015769E0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4F6A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC4DE40>]
+we want to build a city!
+124 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288015781F0>])
+[<lux.game_objects.CityTile object at 0x0000028801578EB0>, <lux.game_objects.CityTile object at 0x0000028801578460>]
+dict_values([<lux.game_objects.City object at 0x000002423FC79D50>])
+[<lux.game_objects.CityTile object at 0x000002423FC7A770>]
+dict_values([<lux.game_objects.City object at 0x0000028801527F10>])
+[<lux.game_objects.CityTile object at 0x00000288015274C0>, <lux.game_objects.CityTile object at 0x0000028801526B30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC28700>])
+[<lux.game_objects.CityTile object at 0x000002423FC2B040>]
+dict_values([<lux.game_objects.City object at 0x0000028801543520>])
+[<lux.game_objects.CityTile object at 0x0000028801542320>, <lux.game_objects.CityTile object at 0x0000028801541150>]
+we want to build a city!
+127 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288015619F0>])
+[<lux.game_objects.CityTile object at 0x0000028801561D20>, <lux.game_objects.CityTile object at 0x00000288015626B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC14760>])
+[<lux.game_objects.CityTile object at 0x000002423FC16F80>]
+dict_values([<lux.game_objects.City object at 0x00000288015428C0>])
+[<lux.game_objects.CityTile object at 0x0000028801540D60>, <lux.game_objects.CityTile object at 0x0000028801542EC0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7130>])
+[<lux.game_objects.CityTile object at 0x000002423FBE6500>]
+dict_values([<lux.game_objects.City object at 0x0000028801560C70>])
+[<lux.game_objects.CityTile object at 0x0000028801561270>, <lux.game_objects.CityTile object at 0x0000028801560B20>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58040>])
+[<lux.game_objects.CityTile object at 0x000002423FC591B0>]
+we want to build a city!
+130 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288014E78B0>])
+[<lux.game_objects.CityTile object at 0x00000288014E5ED0>, <lux.game_objects.CityTile object at 0x00000288014E7040>]
+dict_values([<lux.game_objects.City object at 0x000002880151E500>])
+[<lux.game_objects.CityTile object at 0x000002880151FA00>, <lux.game_objects.CityTile object at 0x000002880151E650>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B7C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC58CD0>]
+dict_values([<lux.game_objects.City object at 0x00000288015584C0>])
+[<lux.game_objects.CityTile object at 0x000002880155A980>, <lux.game_objects.CityTile object at 0x0000028801559060>]
+dict_values([<lux.game_objects.City object at 0x000002423FC35A50>])
+[<lux.game_objects.CityTile object at 0x000002423FC35B70>]
+we want to build a city!
+133 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880151EA10>])
+[<lux.game_objects.CityTile object at 0x000002880151C580>, <lux.game_objects.CityTile object at 0x000002880151D030>]
+dict_values([<lux.game_objects.City object at 0x000002423FC42770>])
+[<lux.game_objects.CityTile object at 0x000002423FC43610>]
+dict_values([<lux.game_objects.City object at 0x0000028801558880>])
+[<lux.game_objects.CityTile object at 0x0000028801558430>, <lux.game_objects.CityTile object at 0x0000028801558130>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4CAC0>])
+[<lux.game_objects.CityTile object at 0x000002423FC4FAF0>]
+dict_values([<lux.game_objects.City object at 0x000002880157A380>])
+[<lux.game_objects.CityTile object at 0x000002880157B7C0>, <lux.game_objects.CityTile object at 0x000002880157B4C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC701C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC71F60>]
+we want to build a city!
+136 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801576800>])
+[<lux.game_objects.CityTile object at 0x0000028801576EC0>, <lux.game_objects.CityTile object at 0x00000288015767A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4CEB0>])
+[<lux.game_objects.CityTile object at 0x000002423FC1DE10>]
+dict_values([<lux.game_objects.City object at 0x000002423FC18760>])
+[<lux.game_objects.CityTile object at 0x000002423FC18280>]
+lux.game_objects.CityTile object at 0x000002880157AB30>]
+dict_values([<lux.game_objects.City object at 0x0000028801547640>])
+[<lux.game_objects.CityTile object at 0x00000288015477C0>, <lux.game_objects.CityTile object at 0x00000288015478B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC757B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC77D60>]
+we want to build a city!
+139 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC1A290>])
+[<lux.game_objects.CityTile object at 0x000002423FC190F0>]
+lux.game_objects.CityTile object at 0x00000288015437C0>]
+dict_values([<lux.game_objects.City object at 0x0000028801527610>])
+[<lux.game_objects.CityTile object at 0x0000028801524400>, <lux.game_objects.CityTile object at 0x0000028801524760>]
+dict_values([<lux.game_objects.City object at 0x000002423FC615A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC632B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801541720>])
+[<lux.game_objects.CityTile object at 0x0000028801541480>, <lux.game_objects.CityTile object at 0x00000288015414B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7A860>])
+[<lux.game_objects.CityTile object at 0x000002423FC7AA40>]
+we want to build a city!
+142 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801569480>])
+[<lux.game_objects.CityTile object at 0x0000028801569B70>, <lux.game_objects.CityTile object at 0x000002880156A800>]
+dict_values([<lux.game_objects.City object at 0x000002423FC47AF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC449D0>]
+dict_values([<lux.game_objects.City object at 0x000002880154FCD0>])
+[<lux.game_objects.CityTile object at 0x000002880154C0D0>, <lux.game_objects.CityTile object at 0x000002880154C400>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE5210>])
+[<lux.game_objects.CityTile object at 0x000002423FBE56F0>]
+dict_values([<lux.game_objects.City object at 0x000002880151DF60>])
+[<lux.game_objects.CityTile object at 0x000002880151C670>, <lux.game_objects.CityTile object at 0x000002880151C0D0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6DFC0>])
+[<lux.game_objects.CityTile object at 0x000002423FC6D2A0>]
+we want to build a city!
+145 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801518C10>])
+[<lux.game_objects.CityTile object at 0x0000028801518CD0>, <lux.game_objects.CityTile object at 0x0000028801518AC0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC2A500>])
+[<lux.game_objects.CityTile object at 0x000002423FC2AB30>]
+dict_values([<lux.game_objects.City object at 0x000002880151D300>])
+[<lux.game_objects.CityTile object at 0x000002880151E740>, <lux.game_objects.CityTile object at 0x000002880151CAF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B940>])
+[<lux.game_objects.CityTile object at 0x000002423FC5A6B0>]
+dict_values([<lux.game_objects.City object at 0x00000288015359F0>])
+[<lux.game_objects.CityTile object at 0x0000028801537250>, <lux.game_objects.CityTile object at 0x00000288015378B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC35ED0>])
+[<lux.game_objects.CityTile object at 0x000002423FC34490>]
+we want to build a city!
+148 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801579480>])
+[<lux.game_objects.CityTile object at 0x00000288015784F0>, <lux.game_objects.CityTile object at 0x000002880157BA30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41540>])
+[<lux.game_objects.CityTile object at 0x000002423FC40790>]
+dict_values([<lux.game_objects.City object at 0x0000028801574EE0>])
+[<lux.game_objects.CityTile object at 0x0000028801574250>, <lux.game_objects.CityTile object at 0x0000028801575ED0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC27FA0>])
+[<lux.game_objects.CityTile object at 0x000002423F79F220>]
+dict_values([<lux.game_objects.City object at 0x000002880157BCA0>])
+[<lux.game_objects.CityTile object at 0x000002880157BDC0>, <lux.game_objects.CityTile object at 0x000002880157B250>]
+dict_values([<lux.game_objects.City object at 0x000002423FC42EF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC42050>]
+dict_values([<lux.game_objects.City object at 0x0000028801575F30>])
+[<lux.game_objects.CityTile object at 0x00000288015754E0>, <lux.game_objects.CityTile object at 0x0000028801575540>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4DE10>])
+[<lux.game_objects.CityTile object at 0x000002423FC4EFB0>]
+dict_values([<lux.game_objects.City object at 0x0000028801541930>])
+[<lux.game_objects.CityTile object at 0x00000288015411E0>, <lux.game_objects.CityTile object at 0x00000288015426B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC18850>])
+[<lux.game_objects.CityTile object at 0x000002423FC19840>]
+dict_values([<lux.game_objects.City object at 0x000002880151C670>])
+[<lux.game_objects.CityTile object at 0x000002880151C0D0>, <lux.game_objects.CityTile object at 0x000002880151C460>]
+dict_values([<lux.game_objects.City object at 0x000002423FC77A60>])
+[<lux.game_objects.CityTile object at 0x000002423FC76890>]
+dict_values([<lux.game_objects.City object at 0x00000288015418A0>])
+[<lux.game_objects.CityTile object at 0x0000028801542A70>, <lux.game_objects.CityTile object at 0x0000028801540280>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1B700>])
+[<lux.game_objects.CityTile object at 0x000002423FC18A00>]
+dict_values([<lux.game_objects.City object at 0x000002880151F4C0>])
+[<lux.game_objects.CityTile object at 0x000002880151D330>, <lux.game_objects.CityTile object at 0x000002880151DBD0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7B910>])
+[<lux.game_objects.CityTile object at 0x000002423FC7BFD0>]
+dict_values([<lux.game_objects.City object at 0x000002880109FA90>])
+[<lux.game_objects.CityTile object at 0x000002880154FA00>, <lux.game_objects.CityTile object at 0x000002880154CEB0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE6620>])
+[<lux.game_objects.CityTile object at 0x000002423FBE6830>]
+dict_values([<lux.game_objects.City object at 0x000002880155BD00>])
+[<lux.game_objects.CityTile object at 0x0000028801558310>, <lux.game_objects.CityTile object at 0x000002880155A200>]
+dict_values([<lux.game_objects.City object at 0x0000028801519D50>])
+[<lux.game_objects.CityTile object at 0x000002880151B850>, <lux.game_objects.CityTile object at 0x000002880151B1C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC287F0>])
+[<lux.game_objects.CityTile object at 0x000002423FC28400>]
+dict_values([<lux.game_objects.City object at 0x0000028801545240>])
+[<lux.game_objects.CityTile object at 0x0000028801547CA0>, <lux.game_objects.CityTile object at 0x0000028801545D50>]
+dict_values([<lux.game_objects.City object at 0x000002423FC59960>])
+[<lux.game_objects.CityTile object at 0x000002423FC583D0>]
+dict_values([<lux.game_objects.City object at 0x0000028801560790>])
+[<lux.game_objects.CityTile object at 0x0000028801560EE0>, <lux.game_objects.CityTile object at 0x0000028801560130>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1ED70>])
+[<lux.game_objects.CityTile object at 0x000002423FC1EC20>]
+we want to build a city!
+161 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880157A200>])
+[<lux.game_objects.CityTile object at 0x00000288015796C0>, <lux.game_objects.CityTile object at 0x0000028801579E10>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41ED0>])
+[<lux.game_objects.CityTile object at 0x000002423FC41BA0>]
+dict_values([<lux.game_objects.City object at 0x0000028801576440>])
+[<lux.game_objects.CityTile object at 0x0000028801574F40>, <lux.game_objects.CityTile object at 0x00000288015756F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC44E20>])
+[<lux.game_objects.CityTile object at 0x000002423FC27FA0>]
+dict_values([<lux.game_objects.City object at 0x0000028801578610>])
+[<lux.game_objects.CityTile object at 0x000002880157B2B0>, <lux.game_objects.CityTile object at 0x0000028801579C30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41090>])
+[<lux.game_objects.CityTile object at 0x000002423FC41AB0>]
+we want to build a city!
+164 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880109E0B0>])
+[<lux.game_objects.CityTile object at 0x000002880109FA90>, <lux.game_objects.CityTile object at 0x000002880109EE00>]
+dict_values([<lux.game_objects.City object at 0x000002423FC261A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC26230>]
+dict_values([<lux.game_objects.City object at 0x00000288015439D0>])
+[<lux.game_objects.CityTile object at 0x0000028801543AF0>, <lux.game_objects.CityTile object at 0x0000028801542740>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6D8A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC6F130>]
+dict_values([<lux.game_objects.City object at 0x0000028801537310>])
+[<lux.game_objects.CityTile object at 0x0000028801534A90>, <lux.game_objects.CityTile object at 0x0000028801534DF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC734C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC733D0>]
+we want to build a city!
+167 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC18AC0>])
+[<lux.game_objects.CityTile object at 0x000002423FC18490>]
+lux.game_objects.CityTile object at 0x0000028801541C00>]
+dict_values([<lux.game_objects.City object at 0x000002880153A860>])
+[<lux.game_objects.CityTile object at 0x0000028801539690>, <lux.game_objects.CityTile object at 0x0000028801539F60>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58DF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC58370>]
+dict_values([<lux.game_objects.City object at 0x000002423FC19E70>])
+[<lux.game_objects.CityTile object at 0x000002423FC1AC80>]
+we want to build a city!
+170 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880156FFA0>])
+[<lux.game_objects.CityTile object at 0x000002880156CC10>, <lux.game_objects.CityTile object at 0x000002880156E650>]
+dict_values([<lux.game_objects.City object at 0x000002880156DF90>])
+[<lux.game_objects.CityTile object at 0x000002880156CD00>, <lux.game_objects.CityTile object at 0x000002880156DFF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B010>])
+[<lux.game_objects.CityTile object at 0x000002423FC59240>]
+dict_values([<lux.game_objects.City object at 0x0000028801519990>])
+[<lux.game_objects.CityTile object at 0x0000028801518B20>, <lux.game_objects.CityTile object at 0x0000028801519630>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE75E0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE6AD0>]
+dict_values([<lux.game_objects.City object at 0x000002880151F970>])
+[<lux.game_objects.CityTile object at 0x000002880151E800>, <lux.game_objects.CityTile object at 0x000002880151E950>]
+dict_values([<lux.game_objects.City object at 0x000002423FC74C70>])
+[<lux.game_objects.CityTile object at 0x000002423FC76200>]
+we want to build a city!
+173 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC2A4A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC29120>]
+lux.game_objects.CityTile object at 0x0000028801527130>]
+dict_values([<lux.game_objects.City object at 0x000002880154E5C0>])
+[<lux.game_objects.CityTile object at 0x000002880154FCD0>, <lux.game_objects.CityTile object at 0x000002880154F160>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7B1C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC78190>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1CEE0>])
+[<lux.game_objects.CityTile object at 0x000002423FC1ECB0>]
+lux.game_objects.CityTile object at 0x0000028801568D90>]
+we want to build a city!
+176 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801577430>])
+[<lux.game_objects.CityTile object at 0x0000028801575F30>, <lux.game_objects.CityTile object at 0x00000288015754E0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC436A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC40DC0>]
+dict_values([<lux.game_objects.City object at 0x000002880155BA60>])
+[<lux.game_objects.CityTile object at 0x0000028801558C10>, <lux.game_objects.CityTile object at 0x000002880155A5C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4E560>])
+[<lux.game_objects.CityTile object at 0x000002423FC44E20>]
+dict_values([<lux.game_objects.City object at 0x000002423FC42DD0>])
+[<lux.game_objects.CityTile object at 0x000002423FC43F70>]
+dict_values([<lux.game_objects.City object at 0x000002880155B310>])
+[<lux.game_objects.CityTile object at 0x0000028801559750>, <lux.game_objects.CityTile object at 0x0000028801559B40>]
+we want to build a city!
+179 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801563370>])
+[<lux.game_objects.CityTile object at 0x0000028801560FA0>, <lux.game_objects.CityTile object at 0x0000028801563430>]
+dict_values([<lux.game_objects.City object at 0x000002423FC47D90>])
+[<lux.game_objects.CityTile object at 0x000002423FC46A10>]
+dict_values([<lux.game_objects.City object at 0x0000028801540400>])
+[<lux.game_objects.CityTile object at 0x00000288015406D0>, <lux.game_objects.CityTile object at 0x0000028801542FB0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC34BB0>])
+[<lux.game_objects.CityTile object at 0x000002423FC34550>]
+dict_values([<lux.game_objects.City object at 0x0000028801535F30>])
+[<lux.game_objects.CityTile object at 0x0000028801536050>, <lux.game_objects.CityTile object at 0x0000028801535F90>]
+dict_values([<lux.game_objects.City object at 0x000002423FC26BC0>])
+[<lux.game_objects.CityTile object at 0x000002423FC25C90>]
+we want to build a city!
+182 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC190C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC18670>]
+lux.game_objects.CityTile object at 0x00000288015436A0>]
+dict_values([<lux.game_objects.City object at 0x0000028801547D00>])
+[<lux.game_objects.CityTile object at 0x0000028801544700>, <lux.game_objects.CityTile object at 0x0000028801545330>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58F70>])
+[<lux.game_objects.CityTile object at 0x000002423FC5BD00>]
+dict_values([<lux.game_objects.City object at 0x000002423FC18C40>])
+[<lux.game_objects.CityTile object at 0x000002423FC18100>]
+lux.game_objects.CityTile object at 0x00000288014E4910>]
+we want to build a city!
+185 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880153AEF0>])
+[<lux.game_objects.CityTile object at 0x0000028801539F00>, <lux.game_objects.CityTile object at 0x000002880153B820>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5A020>])
+[<lux.game_objects.CityTile object at 0x000002423FC583D0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE74F0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE6CB0>]
+lux.game_objects.CityTile object at 0x0000028801525ED0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC73C70>])
+[<lux.game_objects.CityTile object at 0x000002423FC71BA0>]
+dict_values([<lux.game_objects.City object at 0x0000028801519330>])
+[<lux.game_objects.CityTile object at 0x0000028801518190>, <lux.game_objects.CityTile object at 0x000002880151A680>]
+we want to build a city!
+188 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC28D30>])
+[<lux.game_objects.CityTile object at 0x000002423FC29C60>]
+lux.game_objects.CityTile object at 0x000002880156F520>]
+dict_values([<lux.game_objects.City object at 0x000002880154C310>])
+[<lux.game_objects.CityTile object at 0x000002880154FFD0>, <lux.game_objects.CityTile object at 0x000002880154C100>]
+dict_values([<lux.game_objects.City object at 0x000002423FC76620>])
+[<lux.game_objects.CityTile object at 0x000002423FC74940>]
+dict_values([<lux.game_objects.City object at 0x0000028801569E40>])
+[<lux.game_objects.CityTile object at 0x0000028801569F00>, <lux.game_objects.CityTile object at 0x00000288015690F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1C0D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC1FE20>]
+dict_values([<lux.game_objects.City object at 0x0000028801577940>])
+[<lux.game_objects.CityTile object at 0x0000028801577F10>, <lux.game_objects.CityTile object at 0x0000028801574160>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41660>])
+[<lux.game_objects.CityTile object at 0x000002423FC41A20>]
+dict_values([<lux.game_objects.City object at 0x0000028801577FA0>])
+[<lux.game_objects.CityTile object at 0x00000288015772B0>, <lux.game_objects.CityTile object at 0x0000028801575390>]
+dict_values([<lux.game_objects.City object at 0x000002423FC79570>])
+[<lux.game_objects.CityTile object at 0x000002423FC7A740>]
+dict_values([<lux.game_objects.City object at 0x0000028801543D60>])
+[<lux.game_objects.CityTile object at 0x0000028801543400>, <lux.game_objects.CityTile object at 0x0000028801542800>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41EA0>])
+[<lux.game_objects.CityTile object at 0x000002423FC436D0>]
+dict_values([<lux.game_objects.City object at 0x0000028801562290>])
+[<lux.game_objects.CityTile object at 0x00000288015612D0>, <lux.game_objects.CityTile object at 0x0000028801561E10>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4E230>])
+[<lux.game_objects.CityTile object at 0x000002423FC4E3B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801541690>])
+[<lux.game_objects.CityTile object at 0x0000028801540FA0>, <lux.game_objects.CityTile object at 0x0000028801540AC0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC624A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC60F10>]
+dict_values([<lux.game_objects.City object at 0x000002423FC24EE0>])
+[<lux.game_objects.CityTile object at 0x000002423FC24D30>]
+lux.game_objects.CityTile object at 0x0000028801563A30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC46AD0>])
+[<lux.game_objects.CityTile object at 0x000002423FC46FE0>]
+lux.game_objects.CityTile object at 0x00000288014E6860>]
+dict_values([<lux.game_objects.City object at 0x000002880153AA40>])
+[<lux.game_objects.CityTile object at 0x000002880153A710>, <lux.game_objects.CityTile object at 0x000002880153BD90>]
+dict_values([<lux.game_objects.City object at 0x000002423FC365C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC364D0>]
+dict_values([<lux.game_objects.City object at 0x000002880156FF10>])
+[<lux.game_objects.CityTile object at 0x000002880156CAC0>, <lux.game_objects.CityTile object at 0x000002880156F010>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1B160>])
+[<lux.game_objects.CityTile object at 0x000002423FC1A410>]
+dict_values([<lux.game_objects.City object at 0x000002423FC594E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC5B640>]
+dict_values([<lux.game_objects.City object at 0x0000028801538070>])
+[<lux.game_objects.CityTile object at 0x000002880153A500>, <lux.game_objects.CityTile object at 0x000002880153B430>]
+we want to build a city!
+201 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880156F040>])
+[<lux.game_objects.CityTile object at 0x000002880156EB90>, <lux.game_objects.CityTile object at 0x000002880156DED0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE67A0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE7BB0>]
+dict_values([<lux.game_objects.City object at 0x0000028801546590>])
+[<lux.game_objects.CityTile object at 0x00000288015448E0>, <lux.game_objects.CityTile object at 0x00000288015442B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC591E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC5A050>]
+dict_values([<lux.game_objects.City object at 0x0000028801545BD0>])
+[<lux.game_objects.CityTile object at 0x0000028801544A60>, <lux.game_objects.CityTile object at 0x0000028801547790>]
+we want to build a city!
+204 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801579F60>])
+[<lux.game_objects.CityTile object at 0x000002880157AA10>, <lux.game_objects.CityTile object at 0x000002880157A9E0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC75330>])
+[<lux.game_objects.CityTile object at 0x000002423FC75F90>]
+dict_values([<lux.game_objects.City object at 0x0000028801575E10>])
+[<lux.game_objects.CityTile object at 0x0000028801575F90>, <lux.game_objects.CityTile object at 0x0000028801577B50>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1E530>])
+[<lux.game_objects.CityTile object at 0x000002423FC1E440>]
+dict_values([<lux.game_objects.City object at 0x0000028801541C60>])
+[<lux.game_objects.CityTile object at 0x0000028801540C10>, <lux.game_objects.CityTile object at 0x0000028801543EE0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC42260>])
+[<lux.game_objects.CityTile object at 0x000002423FC43C70>]
+we want to build a city!
+207 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880151A710>])
+[<lux.game_objects.CityTile object at 0x000002880151BEE0>, <lux.game_objects.CityTile object at 0x000002880151BE80>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6DE40>])
+[<lux.game_objects.CityTile object at 0x000002423FC6E9B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801543250>])
+[<lux.game_objects.CityTile object at 0x00000288015437F0>, <lux.game_objects.CityTile object at 0x0000028801541C30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC43520>])
+[<lux.game_objects.CityTile object at 0x000002423FC42C80>]
+dict_values([<lux.game_objects.City object at 0x000002880151C0A0>])
+[<lux.game_objects.CityTile object at 0x000002880151DFC0>, <lux.game_objects.CityTile object at 0x000002880151F4F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4C940>])
+[<lux.game_objects.CityTile object at 0x000002423FC4CAC0>]
+we want to build a city!
+210 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288014E7D00>])
+[<lux.game_objects.CityTile object at 0x00000288014E58A0>, <lux.game_objects.CityTile object at 0x00000288014E63B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC618D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC61D50>]
+dict_values([<lux.game_objects.City object at 0x0000028801562EF0>])
+[<lux.game_objects.CityTile object at 0x0000028801563340>, <lux.game_objects.CityTile object at 0x0000028801561750>]
+dict_values([<lux.game_objects.City object at 0x000002423FC47910>])
+[<lux.game_objects.CityTile object at 0x000002423FC47670>]
+dict_values([<lux.game_objects.City object at 0x0000028801537C10>])
+[<lux.game_objects.CityTile object at 0x0000028801534A90>, <lux.game_objects.CityTile object at 0x0000028801534B80>]
+dict_values([<lux.game_objects.City object at 0x000002423FC19FC0>])
+[<lux.game_objects.CityTile object at 0x000002423FC19AE0>]
+we want to build a city!
+213 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FBE7160>])
+[<lux.game_objects.CityTile object at 0x000002423FBE75B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801539F90>])
+[<lux.game_objects.CityTile object at 0x000002880153BA30>, <lux.game_objects.CityTile object at 0x000002880153B550>]
+dict_values([<lux.game_objects.City object at 0x0000028801558520>])
+[<lux.game_objects.CityTile object at 0x000002880155A4D0>, <lux.game_objects.CityTile object at 0x000002880155A140>]
+dict_values([<lux.game_objects.City object at 0x000002423FC72A10>])
+[<lux.game_objects.CityTile object at 0x000002423FC71210>]
+dict_values([<lux.game_objects.City object at 0x000002423FC59600>])
+[<lux.game_objects.CityTile object at 0x000002423FC58E50>]
+lux.game_objects.CityTile object at 0x000002880153A530>]
+we want to build a city!
+216 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880156CD30>])
+[<lux.game_objects.CityTile object at 0x000002880156E980>, <lux.game_objects.CityTile object at 0x000002880156E170>]
+dict_values([<lux.game_objects.City object at 0x0000028801525E10>])
+[<lux.game_objects.CityTile object at 0x0000028801526CE0>, <lux.game_objects.CityTile object at 0x0000028801526080>]
+dict_values([<lux.game_objects.City object at 0x000002423FC28370>])
+[<lux.game_objects.CityTile object at 0x000002423FC2A020>]
+dict_values([<lux.game_objects.City object at 0x0000028801547B20>])
+[<lux.game_objects.CityTile object at 0x0000028801545A80>, <lux.game_objects.CityTile object at 0x00000288015479A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC19390>])
+[<lux.game_objects.CityTile object at 0x000002423FC1AB00>]
+we want to build a city!
+219 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801579E10>])
+[<lux.game_objects.CityTile object at 0x000002880157AA40>, <lux.game_objects.CityTile object at 0x000002880157B490>]
+dict_values([<lux.game_objects.City object at 0x000002423FC40400>])
+[<lux.game_objects.CityTile object at 0x000002423FC41D50>]
+dict_values([<lux.game_objects.City object at 0x0000028801577940>])
+[<lux.game_objects.CityTile object at 0x0000028801577F10>, <lux.game_objects.CityTile object at 0x0000028801574160>]
+dict_values([<lux.game_objects.City object at 0x000002423FC19750>])
+[<lux.game_objects.CityTile object at 0x000002423FC18490>]
+dict_values([<lux.game_objects.City object at 0x000002423FC429E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC41810>]
+dict_values([<lux.game_objects.City object at 0x0000028801542680>])
+[<lux.game_objects.CityTile object at 0x0000028801540D90>, <lux.game_objects.CityTile object at 0x0000028801541840>]
+we want to build a city!
+222 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801567D90>])
+[<lux.game_objects.CityTile object at 0x000002880151F100>, <lux.game_objects.CityTile object at 0x000002880151E710>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1E4A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC1CC40>]
+dict_values([<lux.game_objects.City object at 0x000002423FC35A20>])
+[<lux.game_objects.CityTile object at 0x000002423FC36290>]
+lux.game_objects.CityTile object at 0x0000028801541270>]
+dict_values([<lux.game_objects.City object at 0x0000028801563460>])
+[<lux.game_objects.CityTile object at 0x0000028801563AF0>, <lux.game_objects.CityTile object at 0x00000288015623B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC47DC0>])
+[<lux.game_objects.CityTile object at 0x000002423FC449D0>]
+we want to build a city!
+225 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288014E7A00>])
+[<lux.game_objects.CityTile object at 0x00000288014E7190>, <lux.game_objects.CityTile object at 0x00000288014E7EE0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC72A40>])
+[<lux.game_objects.CityTile object at 0x000002423FC70520>]
+dict_values([<lux.game_objects.City object at 0x000002880154E0E0>])
+[<lux.game_objects.CityTile object at 0x000002880154FD00>, <lux.game_objects.CityTile object at 0x000002880154D8A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC477F0>])
+[<lux.game_objects.CityTile object at 0x000002423FC44E80>]
+dict_values([<lux.game_objects.City object at 0x00000288015370A0>])
+[<lux.game_objects.CityTile object at 0x0000028801536E90>, <lux.game_objects.CityTile object at 0x0000028801534880>]
+dict_values([<lux.game_objects.City object at 0x000002423FC733A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC73940>]
+we want to build a city!
+228 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FBE7040>])
+[<lux.game_objects.CityTile object at 0x000002423FBE7C70>]
+lux.game_objects.CityTile object at 0x000002880155BE80>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7B1C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC78FA0>]
+lux.game_objects.CityTile object at 0x0000028801535DE0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B070>])
+[<lux.game_objects.CityTile object at 0x000002423FC5ADD0>]
+lux.game_objects.CityTile object at 0x0000028801538AC0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4D570>])
+[<lux.game_objects.CityTile object at 0x000002423FC4C880>]
+lux.game_objects.CityTile object at 0x000002880156EF50>]
+dict_values([<lux.game_objects.City object at 0x00000288015241F0>])
+[<lux.game_objects.CityTile object at 0x0000028801524B20>, <lux.game_objects.CityTile object at 0x00000288015245B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC754B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC773D0>]
+dict_values([<lux.game_objects.City object at 0x0000028801547910>])
+[<lux.game_objects.CityTile object at 0x0000028801546EF0>, <lux.game_objects.CityTile object at 0x0000028801544E20>]
+dict_values([<lux.game_objects.City object at 0x000002423FC62020>])
+[<lux.game_objects.CityTile object at 0x000002423FC60BE0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41AE0>])
+[<lux.game_objects.CityTile object at 0x000002423FC417B0>]
+dict_values([<lux.game_objects.City object at 0x000002880151EB30>])
+[<lux.game_objects.CityTile object at 0x000002880151D6C0>, <lux.game_objects.CityTile object at 0x000002880151F1F0>]
+dict_values([<lux.game_objects.City object at 0x0000028801562B60>])
+[<lux.game_objects.CityTile object at 0x0000028801561D20>, <lux.game_objects.CityTile object at 0x0000028801562B30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6E020>])
+[<lux.game_objects.CityTile object at 0x000002423FC6D750>]
+dict_values([<lux.game_objects.City object at 0x000002880151E920>])
+[<lux.game_objects.CityTile object at 0x000002880151F2B0>, <lux.game_objects.CityTile object at 0x000002880151E860>]
+dict_values([<lux.game_objects.City object at 0x000002423FC46320>])
+[<lux.game_objects.CityTile object at 0x000002423FC46FE0>]
+dict_values([<lux.game_objects.City object at 0x0000028801562680>])
+[<lux.game_objects.CityTile object at 0x00000288015608B0>, <lux.game_objects.CityTile object at 0x0000028801563310>]
+dict_values([<lux.game_objects.City object at 0x00000288015415D0>])
+[<lux.game_objects.CityTile object at 0x0000028801541750>, <lux.game_objects.CityTile object at 0x0000028801543070>]
+dict_values([<lux.game_objects.City object at 0x000002423FC34550>])
+[<lux.game_objects.CityTile object at 0x000002423FC37670>]
+dict_values([<lux.game_objects.City object at 0x0000028801575870>])
+[<lux.game_objects.CityTile object at 0x0000028801577A90>, <lux.game_objects.CityTile object at 0x00000288015766E0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC44A60>])
+[<lux.game_objects.CityTile object at 0x000002423FC454B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801542B60>])
+[<lux.game_objects.CityTile object at 0x0000028801541DB0>, <lux.game_objects.CityTile object at 0x0000028801541660>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1A3B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC1A2C0>]
+we want to build a city!
+241 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880151BD60>])
+[<lux.game_objects.CityTile object at 0x000002880151BAC0>, <lux.game_objects.CityTile object at 0x000002880151BDC0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE4910>])
+[<lux.game_objects.CityTile object at 0x000002423FBE75E0>]
+dict_values([<lux.game_objects.City object at 0x00000288014E7970>])
+[<lux.game_objects.CityTile object at 0x0000028801566350>, <lux.game_objects.CityTile object at 0x00000288015660B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC72260>])
+[<lux.game_objects.CityTile object at 0x000002423FC701C0>]
+dict_values([<lux.game_objects.City object at 0x000002880154EE60>])
+[<lux.game_objects.CityTile object at 0x000002880154FA00>, <lux.game_objects.CityTile object at 0x000002880154F8B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B7F0>])
+[<lux.game_objects.CityTile object at 0x000002423FC5B040>]
+we want to build a city!
+244 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC1DF00>])
+[<lux.game_objects.CityTile object at 0x000002423FC1C8E0>]
+lux.game_objects.CityTile object at 0x0000028801534B50>]
+dict_values([<lux.game_objects.City object at 0x000002880154C730>])
+[<lux.game_objects.CityTile object at 0x000002880154F6D0>, <lux.game_objects.CityTile object at 0x000002880154EEF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC79000>])
+[<lux.game_objects.CityTile object at 0x000002423FC7A230>]
+dict_values([<lux.game_objects.City object at 0x0000028801558DF0>])
+[<lux.game_objects.CityTile object at 0x000002880155A1A0>, <lux.game_objects.CityTile object at 0x000002880155B490>]
+dict_values([<lux.game_objects.City object at 0x000002423FC61180>])
+[<lux.game_objects.CityTile object at 0x000002423FC62A70>]
+we want to build a city!
+247 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801539510>])
+[<lux.game_objects.CityTile object at 0x000002880153A350>, <lux.game_objects.CityTile object at 0x000002880153A740>]
+dict_values([<lux.game_objects.City object at 0x000002423FC42470>])
+[<lux.game_objects.CityTile object at 0x000002423FC42C20>]
+dict_values([<lux.game_objects.City object at 0x0000028801563520>])
+[<lux.game_objects.CityTile object at 0x00000288015633D0>, <lux.game_objects.CityTile object at 0x00000288015613C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC766B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC74820>]
+dict_values([<lux.game_objects.City object at 0x00000288015787F0>])
+[<lux.game_objects.CityTile object at 0x000002880157AF20>, <lux.game_objects.CityTile object at 0x000002880157B940>]
+dict_values([<lux.game_objects.City object at 0x000002423FC41420>])
+[<lux.game_objects.CityTile object at 0x000002423FC40250>]
+we want to build a city!
+250 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288015618A0>])
+[<lux.game_objects.CityTile object at 0x00000288015604C0>, <lux.game_objects.CityTile object at 0x0000028801560730>]
+dict_values([<lux.game_objects.City object at 0x000002423FC2B400>])
+[<lux.game_objects.CityTile object at 0x000002423FC293C0>]
+dict_values([<lux.game_objects.City object at 0x0000028801540490>])
+[<lux.game_objects.CityTile object at 0x00000288015420E0>, <lux.game_objects.CityTile object at 0x0000028801540850>]
+dict_values([<lux.game_objects.City object at 0x000002423FC26410>])
+[<lux.game_objects.CityTile object at 0x000002423FC27A30>]
+dict_values([<lux.game_objects.City object at 0x0000028801574CD0>])
+[<lux.game_objects.CityTile object at 0x0000028801574CA0>, <lux.game_objects.CityTile object at 0x00000288015771F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC440A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC47190>]
+we want to build a city!
+253 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801542AA0>])
+[<lux.game_objects.CityTile object at 0x0000028801541000>, <lux.game_objects.CityTile object at 0x0000028801540190>]
+dict_values([<lux.game_objects.City object at 0x000002423FC34940>])
+[<lux.game_objects.CityTile object at 0x000002423FC344F0>]
+dict_values([<lux.game_objects.City object at 0x000002880151E830>])
+[<lux.game_objects.CityTile object at 0x000002880151DF30>, <lux.game_objects.CityTile object at 0x000002880151E0B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC460B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC45810>]
+dict_values([<lux.game_objects.City object at 0x00000288014E6B30>])
+[<lux.game_objects.CityTile object at 0x0000028801566650>, <lux.game_objects.CityTile object at 0x0000028801566230>]
+dict_values([<lux.game_objects.City object at 0x000002423FC34A00>])
+[<lux.game_objects.CityTile object at 0x000002423FC6C580>]
+we want to build a city!
+256 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880154F640>])
+[<lux.game_objects.CityTile object at 0x000002880154C790>, <lux.game_objects.CityTile object at 0x000002880154F220>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7C40>])
+[<lux.game_objects.CityTile object at 0x000002423FBE66E0>]
+dict_values([<lux.game_objects.City object at 0x00000288015370D0>])
+[<lux.game_objects.CityTile object at 0x0000028801537520>, <lux.game_objects.CityTile object at 0x00000288015343A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC609A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC63E20>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5A440>])
+[<lux.game_objects.CityTile object at 0x000002423FC5B4C0>]
+lux.game_objects.CityTile object at 0x000002880154DC90>]
+we want to build a city!
+259 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002423FC62590>])
+[<lux.game_objects.CityTile object at 0x000002423FC60940>]
+lux.game_objects.CityTile object at 0x000002880156E0E0>]
+dict_values([<lux.game_objects.City object at 0x000002880157BB20>])
+[<lux.game_objects.CityTile object at 0x000002880157B850>, <lux.game_objects.CityTile object at 0x000002880157BE20>]
+dict_values([<lux.game_objects.City object at 0x0000028801561FF0>])
+[<lux.game_objects.CityTile object at 0x0000028801560340>, <lux.game_objects.CityTile object at 0x0000028801560C70>]
+dict_values([<lux.game_objects.City object at 0x000002423FC70DF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC73280>]
+we want to build a city!
+262 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801525A20>])
+[<lux.game_objects.CityTile object at 0x0000028801524CD0>, <lux.game_objects.CityTile object at 0x0000028801524A60>]
+dict_values([<lux.game_objects.City object at 0x000002423FC40E20>])
+[<lux.game_objects.CityTile object at 0x000002423FC43190>]
+dict_values([<lux.game_objects.City object at 0x00000288015626E0>])
+[<lux.game_objects.CityTile object at 0x0000028801560520>, <lux.game_objects.CityTile object at 0x0000028801561B10>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4F0D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC4D0F0>]
+dict_values([<lux.game_objects.City object at 0x00000288015402B0>])
+[<lux.game_objects.CityTile object at 0x0000028801543640>, <lux.game_objects.CityTile object at 0x0000028801541C90>]
+dict_values([<lux.game_objects.City object at 0x000002423FC740A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC76830>]
+we want to build a city!
+265 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288015641C0>])
+[<lux.game_objects.CityTile object at 0x0000028801564280>, <lux.game_objects.CityTile object at 0x00000288015642E0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE71F0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE64A0>]
+dict_values([<lux.game_objects.City object at 0x0000028801542F80>])
+[<lux.game_objects.CityTile object at 0x00000288015415A0>, <lux.game_objects.CityTile object at 0x0000028801542350>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6F0D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC6C130>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1BCA0>])
+[<lux.game_objects.CityTile object at 0x000002423FC1B0D0>]
+dict_values([<lux.game_objects.City object at 0x0000028801566F50>])
+[<lux.game_objects.CityTile object at 0x0000028801566B30>, <lux.game_objects.CityTile object at 0x0000028801567C40>]
+we want to build a city!
+268 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288014E6EC0>])
+[<lux.game_objects.CityTile object at 0x00000288014E7640>, <lux.game_objects.CityTile object at 0x00000288014E7670>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6EA10>])
+[<lux.game_objects.CityTile object at 0x000002423FC6E980>]
+dict_values([<lux.game_objects.City object at 0x00000288015743A0>])
+[<lux.game_objects.CityTile object at 0x00000288015778B0>, <lux.game_objects.CityTile object at 0x0000028801576AA0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC37D90>])
+[<lux.game_objects.CityTile object at 0x000002423FC35930>]
+dict_values([<lux.game_objects.City object at 0x0000028801519030>])
+[<lux.game_objects.CityTile object at 0x0000028801519360>, <lux.game_objects.CityTile object at 0x0000028801518D30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7A4D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC793F0>]
+dict_values([<lux.game_objects.City object at 0x000002880153AEF0>])
+[<lux.game_objects.CityTile object at 0x0000028801538610>, <lux.game_objects.CityTile object at 0x0000028801538430>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5B730>])
+[<lux.game_objects.CityTile object at 0x000002423FC58370>]
+dict_values([<lux.game_objects.City object at 0x000002880151F520>])
+[<lux.game_objects.CityTile object at 0x000002880151E8F0>, <lux.game_objects.CityTile object at 0x000002880151EBF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1D450>])
+[<lux.game_objects.CityTile object at 0x000002423FC1CB80>]
+dict_values([<lux.game_objects.City object at 0x000002880155B1F0>])
+[<lux.game_objects.CityTile object at 0x000002880155B4C0>, <lux.game_objects.CityTile object at 0x0000028801558B20>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58DF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC59810>]
+dict_values([<lux.game_objects.City object at 0x000002880156FF70>])
+[<lux.game_objects.CityTile object at 0x000002880156F2E0>, <lux.game_objects.CityTile object at 0x000002880156EBF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC61690>])
+[<lux.game_objects.CityTile object at 0x000002423FC63820>]
+dict_values([<lux.game_objects.City object at 0x000002880157B5B0>])
+[<lux.game_objects.CityTile object at 0x0000028801578760>, <lux.game_objects.CityTile object at 0x0000028801579B40>]
+dict_values([<lux.game_objects.City object at 0x000002423FC438E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC43490>]
+dict_values([<lux.game_objects.City object at 0x00000288015466B0>])
+[<lux.game_objects.CityTile object at 0x00000288015447C0>, <lux.game_objects.CityTile object at 0x0000028801545ED0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC2B220>])
+[<lux.game_objects.CityTile object at 0x000002423FC283A0>]
+dict_values([<lux.game_objects.City object at 0x000002880157B1C0>])
+[<lux.game_objects.CityTile object at 0x0000028801579510>, <lux.game_objects.CityTile object at 0x0000028801578A90>]
+dict_values([<lux.game_objects.City object at 0x000002423FC72E30>])
+[<lux.game_objects.CityTile object at 0x000002423FC71FF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE6D40>])
+[<lux.game_objects.CityTile object at 0x000002423FBE74F0>]
+lux.game_objects.CityTile object at 0x000002880154C280>]
+dict_values([<lux.game_objects.City object at 0x0000028801518940>])
+[<lux.game_objects.CityTile object at 0x000002880151A1A0>, <lux.game_objects.CityTile object at 0x000002880151AB60>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6C700>])
+[<lux.game_objects.CityTile object at 0x000002423FC6CC40>]
+dict_values([<lux.game_objects.City object at 0x0000028801575930>])
+[<lux.game_objects.CityTile object at 0x00000288015775E0>, <lux.game_objects.CityTile object at 0x00000288015761A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC362C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC36230>]
+we want to build a city!
+281 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880151B010>])
+[<lux.game_objects.CityTile object at 0x000002880151A9E0>, <lux.game_objects.CityTile object at 0x0000028801518730>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6EB90>])
+[<lux.game_objects.CityTile object at 0x000002423FC6EA40>]
+dict_values([<lux.game_objects.City object at 0x0000028801567550>])
+[<lux.game_objects.CityTile object at 0x0000028801564340>, <lux.game_objects.CityTile object at 0x0000028801564760>]
+dict_values([<lux.game_objects.City object at 0x000002423FC36290>])
+[<lux.game_objects.CityTile object at 0x000002423FC34580>]
+dict_values([<lux.game_objects.City object at 0x0000028801540EB0>])
+[<lux.game_objects.CityTile object at 0x0000028801541F60>, <lux.game_objects.CityTile object at 0x00000288015403D0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC76680>])
+[<lux.game_objects.CityTile object at 0x000002423FC75BA0>]
+we want to build a city!
+284 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801537C10>])
+[<lux.game_objects.CityTile object at 0x0000028801535F00>, <lux.game_objects.CityTile object at 0x0000028801537C70>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5BAF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC5AAA0>]
+dict_values([<lux.game_objects.City object at 0x0000028801540E20>])
+[<lux.game_objects.CityTile object at 0x0000028801543520>, <lux.game_objects.CityTile object at 0x0000028801540490>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4FCA0>])
+[<lux.game_objects.CityTile object at 0x000002423FC4DC60>]
+dict_values([<lux.game_objects.City object at 0x000002880156FA30>])
+[<lux.game_objects.CityTile object at 0x000002880156E5F0>, <lux.game_objects.CityTile object at 0x000002880156CB80>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58E80>])
+[<lux.game_objects.CityTile object at 0x000002423FC58310>]
+we want to build a city!
+287 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288014E7550>])
+[<lux.game_objects.CityTile object at 0x00000288014E72E0>, <lux.game_objects.CityTile object at 0x00000288014E6C50>]
+dict_values([<lux.game_objects.City object at 0x000002423FC78250>])
+[<lux.game_objects.CityTile object at 0x000002423FC79DE0>]
+dict_values([<lux.game_objects.City object at 0x000002880157B370>])
+[<lux.game_objects.CityTile object at 0x00000288015788E0>, <lux.game_objects.CityTile object at 0x000002880157A1A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC42E00>])
+[<lux.game_objects.CityTile object at 0x000002423FC41B40>]
+dict_values([<lux.game_objects.City object at 0x0000028801545420>])
+[<lux.game_objects.CityTile object at 0x0000028801544D60>, <lux.game_objects.CityTile object at 0x0000028801547610>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1A2C0>])
+[<lux.game_objects.CityTile object at 0x000002423FC18790>]
+we want to build a city!
+290 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801576770>])
+[<lux.game_objects.CityTile object at 0x0000028801577F70>, <lux.game_objects.CityTile object at 0x0000028801576BF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1E230>])
+[<lux.game_objects.CityTile object at 0x000002423FC1CD00>]
+dict_values([<lux.game_objects.City object at 0x0000028801527D60>])
+[<lux.game_objects.CityTile object at 0x0000028801526980>, <lux.game_objects.CityTile object at 0x0000028801525360>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE6E90>])
+[<lux.game_objects.CityTile object at 0x000002423FC71600>]
+dict_values([<lux.game_objects.City object at 0x0000028801577A90>])
+[<lux.game_objects.CityTile object at 0x0000028801577880>, <lux.game_objects.CityTile object at 0x0000028801574760>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6EDD0>])
+[<lux.game_objects.CityTile object at 0x000002423FC6E3E0>]
+we want to build a city!
+293 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288015599C0>])
+[<lux.game_objects.CityTile object at 0x0000028801559870>, <lux.game_objects.CityTile object at 0x000002880155A2C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC62260>])
+[<lux.game_objects.CityTile object at 0x000002423FC60C10>]
+dict_values([<lux.game_objects.City object at 0x000002880151B790>])
+[<lux.game_objects.CityTile object at 0x000002880151AE90>, <lux.game_objects.CityTile object at 0x000002880151B880>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6E650>])
+[<lux.game_objects.CityTile object at 0x000002423FC6D090>]
+dict_values([<lux.game_objects.City object at 0x0000028801564B80>])
+[<lux.game_objects.CityTile object at 0x0000028801565A80>, <lux.game_objects.CityTile object at 0x0000028801564820>]
+dict_values([<lux.game_objects.City object at 0x000002423FC27AF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC26E60>]
+we want to build a city!
+296 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801519BD0>])
+[<lux.game_objects.CityTile object at 0x000002880151BA90>, <lux.game_objects.CityTile object at 0x0000028801518370>]
+dict_values([<lux.game_objects.City object at 0x000002423FC77370>])
+[<lux.game_objects.CityTile object at 0x000002423FC76C80>]
+dict_values([<lux.game_objects.City object at 0x0000028801564D00>])
+[<lux.game_objects.CityTile object at 0x0000028801567FD0>, <lux.game_objects.CityTile object at 0x00000288015668F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC59A50>])
+[<lux.game_objects.CityTile object at 0x000002423FC5B700>]
+dict_values([<lux.game_objects.City object at 0x0000028801541720>])
+[<lux.game_objects.CityTile object at 0x0000028801543250>, <lux.game_objects.CityTile object at 0x0000028801540640>]
+dict_values([<lux.game_objects.City object at 0x000002423FC28E50>])
+[<lux.game_objects.CityTile object at 0x000002423FC29480>]
+we want to build a city!
+299 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880157AE90>])
+[<lux.game_objects.CityTile object at 0x0000028801579210>, <lux.game_objects.CityTile object at 0x000002880157AE30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58130>])
+[<lux.game_objects.CityTile object at 0x000002423FC59AB0>]
+dict_values([<lux.game_objects.City object at 0x0000028801540670>])
+[<lux.game_objects.CityTile object at 0x0000028801543FD0>, <lux.game_objects.CityTile object at 0x0000028801542050>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4EF20>])
+[<lux.game_objects.CityTile object at 0x000002423FC4E0B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC40940>])
+[<lux.game_objects.CityTile object at 0x000002423FC42440>]
+dict_values([<lux.game_objects.City object at 0x000002880157A410>])
+[<lux.game_objects.CityTile object at 0x0000028801579510>, <lux.game_objects.CityTile object at 0x0000028801579B40>]
+we want to build a city!
+302 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288014E6800>])
+[<lux.game_objects.CityTile object at 0x00000288014E7B50>, <lux.game_objects.CityTile object at 0x00000288014E6500>]
+dict_values([<lux.game_objects.City object at 0x000002423FC376A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC34700>]
+dict_values([<lux.game_objects.City object at 0x000002880151FEB0>])
+[<lux.game_objects.CityTile object at 0x000002880151D930>, <lux.game_objects.CityTile object at 0x000002880151F2E0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6CDF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC6FEB0>]
+dict_values([<lux.game_objects.City object at 0x0000028801546740>])
+[<lux.game_objects.CityTile object at 0x0000028801547340>, <lux.game_objects.CityTile object at 0x0000028801545B70>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7820>])
+[<lux.game_objects.CityTile object at 0x000002423FC70970>]
+we want to build a city!
+305 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801525AE0>])
+[<lux.game_objects.CityTile object at 0x0000028801524FD0>, <lux.game_objects.CityTile object at 0x0000028801527BB0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6EA40>])
+[<lux.game_objects.CityTile object at 0x000002423FC6D0F0>]
+dict_values([<lux.game_objects.City object at 0x00000288015763E0>])
+[<lux.game_objects.CityTile object at 0x00000288015741C0>, <lux.game_objects.CityTile object at 0x0000028801575120>]
+dict_values([<lux.game_objects.City object at 0x000002423FC79D50>])
+[<lux.game_objects.CityTile object at 0x000002423FC79330>]
+dict_values([<lux.game_objects.City object at 0x00000288015180A0>])
+[<lux.game_objects.CityTile object at 0x000002880151AAD0>, <lux.game_objects.CityTile object at 0x0000028801519990>]
+dict_values([<lux.game_objects.City object at 0x000002423FC44340>])
+[<lux.game_objects.CityTile object at 0x000002423FC44940>]
+we want to build a city!
+308 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880155B310>])
+[<lux.game_objects.CityTile object at 0x00000288015594E0>, <lux.game_objects.CityTile object at 0x000002880155A2C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5BCA0>])
+[<lux.game_objects.CityTile object at 0x000002423FC5AFB0>]
+dict_values([<lux.game_objects.City object at 0x0000028801518C40>])
+[<lux.game_objects.CityTile object at 0x000002880151BBE0>, <lux.game_objects.CityTile object at 0x0000028801519EA0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1BBB0>])
+[<lux.game_objects.CityTile object at 0x000002423FC180D0>]
+dict_values([<lux.game_objects.City object at 0x0000028801536F50>])
+[<lux.game_objects.CityTile object at 0x0000028801534A90>, <lux.game_objects.CityTile object at 0x0000028801537670>]
+dict_values([<lux.game_objects.City object at 0x000002423FC75660>])
+[<lux.game_objects.CityTile object at 0x000002423FC77280>]
+dict_values([<lux.game_objects.City object at 0x0000028801543F40>])
+[<lux.game_objects.CityTile object at 0x0000028801542920>, <lux.game_objects.CityTile object at 0x0000028801543C10>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4C8B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC4E9E0>]
+dict_values([<lux.game_objects.City object at 0x0000028801579510>])
+[<lux.game_objects.CityTile object at 0x00000288015790C0>, <lux.game_objects.CityTile object at 0x000002880157BA30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1DC30>])
+[<lux.game_objects.CityTile object at 0x000002423FC1FD90>]
+dict_values([<lux.game_objects.City object at 0x00000288015435E0>])
+[<lux.game_objects.CityTile object at 0x00000288015430A0>, <lux.game_objects.CityTile object at 0x00000288015434F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4E740>])
+[<lux.game_objects.CityTile object at 0x000002423FC4DF30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC72740>])
+[<lux.game_objects.CityTile object at 0x000002423FC73DC0>]
+lux.game_objects.CityTile object at 0x000002880157B220>]
+dict_values([<lux.game_objects.City object at 0x00000288014E7AC0>])
+[<lux.game_objects.CityTile object at 0x00000288014E7520>, <lux.game_objects.CityTile object at 0x00000288014E7D90>]
+dict_values([<lux.game_objects.City object at 0x000002423FC25C00>])
+[<lux.game_objects.CityTile object at 0x000002423FC26230>]
+dict_values([<lux.game_objects.City object at 0x0000028801567D30>])
+[<lux.game_objects.CityTile object at 0x0000028801565FF0>, <lux.game_objects.CityTile object at 0x0000028801565870>]
+dict_values([<lux.game_objects.City object at 0x000002423FC428F0>])
+[<lux.game_objects.CityTile object at 0x000002423FC406A0>]
+dict_values([<lux.game_objects.City object at 0x0000028801576980>])
+[<lux.game_objects.CityTile object at 0x0000028801575F60>, <lux.game_objects.CityTile object at 0x00000288015779A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC35210>])
+[<lux.game_objects.CityTile object at 0x000002423FC357B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801547190>])
+[<lux.game_objects.CityTile object at 0x0000028801546980>, <lux.game_objects.CityTile object at 0x0000028801546410>]
+dict_values([<lux.game_objects.City object at 0x000002423FC410F0>])
+[<lux.game_objects.CityTile object at 0x000002423FC41720>]
+dict_values([<lux.game_objects.City object at 0x0000028801575EA0>])
+[<lux.game_objects.CityTile object at 0x000002880153B100>, <lux.game_objects.CityTile object at 0x000002880153BC40>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7F10>])
+[<lux.game_objects.CityTile object at 0x000002423FBE76A0>]
+dict_values([<lux.game_objects.City object at 0x000002880151B0D0>])
+[<lux.game_objects.CityTile object at 0x000002880151A260>, <lux.game_objects.CityTile object at 0x00000288015187C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC2B100>])
+[<lux.game_objects.CityTile object at 0x000002423FC29390>]
+we want to build a city!
+321 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880155AFB0>])
+[<lux.game_objects.CityTile object at 0x0000028801559EA0>, <lux.game_objects.CityTile object at 0x0000028801559F30>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6C880>])
+[<lux.game_objects.CityTile object at 0x000002423FC6C0D0>]
+dict_values([<lux.game_objects.City object at 0x000002880151AFB0>])
+[<lux.game_objects.CityTile object at 0x000002880151BB80>, <lux.game_objects.CityTile object at 0x000002880151B640>]
+dict_values([<lux.game_objects.City object at 0x000002423FC47100>])
+[<lux.game_objects.CityTile object at 0x000002423FC46350>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58550>])
+[<lux.game_objects.CityTile object at 0x000002423FC5A5C0>]
+dict_values([<lux.game_objects.City object at 0x00000288015275E0>])
+[<lux.game_objects.CityTile object at 0x00000288015277C0>, <lux.game_objects.CityTile object at 0x0000028801525D80>]
+we want to build a city!
+324 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288015400A0>])
+[<lux.game_objects.CityTile object at 0x0000028801540580>, <lux.game_objects.CityTile object at 0x0000028801543D00>]
+dict_values([<lux.game_objects.City object at 0x000002423FC77AC0>])
+[<lux.game_objects.CityTile object at 0x000002423FC773A0>]
+dict_values([<lux.game_objects.City object at 0x0000028801578A00>])
+[<lux.game_objects.CityTile object at 0x000002880157B5E0>, <lux.game_objects.CityTile object at 0x0000028801579900>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5A4D0>])
+[<lux.game_objects.CityTile object at 0x000002423FC5BA60>]
+dict_values([<lux.game_objects.City object at 0x0000028801540C70>])
+[<lux.game_objects.CityTile object at 0x0000028801541330>, <lux.game_objects.CityTile object at 0x0000028801541210>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4CE50>])
+[<lux.game_objects.CityTile object at 0x000002423FC4F4F0>]
+we want to build a city!
+327 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801579C90>])
+[<lux.game_objects.CityTile object at 0x0000028801579450>, <lux.game_objects.CityTile object at 0x000002880157B490>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1D210>])
+[<lux.game_objects.CityTile object at 0x000002423FC1DFC0>]
+dict_values([<lux.game_objects.City object at 0x00000288014E7910>])
+[<lux.game_objects.CityTile object at 0x00000288014E71C0>, <lux.game_objects.CityTile object at 0x00000288014E65C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4F1F0>])
+[<lux.game_objects.CityTile object at 0x000002423FC4C5B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801565B40>])
+[<lux.game_objects.CityTile object at 0x00000288015652D0>, <lux.game_objects.CityTile object at 0x0000028801565060>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1BC10>])
+[<lux.game_objects.CityTile object at 0x000002423FC1BDF0>]
+we want to build a city!
+330 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880153B220>])
+[<lux.game_objects.CityTile object at 0x000002880153A830>, <lux.game_objects.CityTile object at 0x00000288015395A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE6DD0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE6590>]
+dict_values([<lux.game_objects.City object at 0x0000028801565090>])
+[<lux.game_objects.CityTile object at 0x0000028801565990>, <lux.game_objects.CityTile object at 0x0000028801566440>]
+dict_values([<lux.game_objects.City object at 0x000002423FC415A0>])
+[<lux.game_objects.CityTile object at 0x000002423FC438B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801539B70>])
+[<lux.game_objects.CityTile object at 0x000002880153A080>, <lux.game_objects.CityTile object at 0x0000028801538AF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC27B20>])
+[<lux.game_objects.CityTile object at 0x000002423FC250C0>]
+we want to build a city!
+333 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x00000288015750F0>])
+[<lux.game_objects.CityTile object at 0x000002880109E0B0>, <lux.game_objects.CityTile object at 0x000002880109F9D0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC43490>])
+[<lux.game_objects.CityTile object at 0x000002423FC41900>]
+dict_values([<lux.game_objects.City object at 0x000002880154FD90>])
+[<lux.game_objects.CityTile object at 0x000002880154DCF0>, <lux.game_objects.CityTile object at 0x000002880154FE50>]
+dict_values([<lux.game_objects.City object at 0x000002423FC797E0>])
+[<lux.game_objects.CityTile object at 0x000002423FC78DF0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC2A380>])
+[<lux.game_objects.CityTile object at 0x000002423FC2ADA0>]
+lux.game_objects.CityTile object at 0x00000288015479D0>]
+we want to build a city!
+336 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801524E50>])
+[<lux.game_objects.CityTile object at 0x0000028801527B80>, <lux.game_objects.CityTile object at 0x00000288015257B0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC5AC80>])
+[<lux.game_objects.CityTile object at 0x000002423FC59E70>]
+dict_values([<lux.game_objects.City object at 0x0000028801541330>])
+[<lux.game_objects.CityTile object at 0x0000028801541210>, <lux.game_objects.CityTile object at 0x00000288015425C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC6DCF0>])
+[<lux.game_objects.CityTile object at 0x000002423FC6F0D0>]
+dict_values([<lux.game_objects.City object at 0x0000028801534160>])
+[<lux.game_objects.CityTile object at 0x0000028801537FA0>, <lux.game_objects.CityTile object at 0x0000028801534F10>]
+dict_values([<lux.game_objects.City object at 0x000002423FC59780>])
+[<lux.game_objects.CityTile object at 0x000002423FC5B670>]
+we want to build a city!
+339 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801541090>])
+[<lux.game_objects.CityTile object at 0x0000028801542770>, <lux.game_objects.CityTile object at 0x0000028801541120>]
+dict_values([<lux.game_objects.City object at 0x000002423FC769B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC75DE0>]
+dict_values([<lux.game_objects.City object at 0x000002880157A050>])
+[<lux.game_objects.CityTile object at 0x0000028801578DF0>, <lux.game_objects.CityTile object at 0x000002880157BA00>]
+dict_values([<lux.game_objects.City object at 0x000002423FC62E90>])
+[<lux.game_objects.CityTile object at 0x000002423FC631F0>]
+dict_values([<lux.game_objects.City object at 0x000002880151BF10>])
+[<lux.game_objects.CityTile object at 0x0000028801518490>, <lux.game_objects.CityTile object at 0x0000028801518970>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4EC20>])
+[<lux.game_objects.CityTile object at 0x000002423FC4DED0>]
+we want to build a city!
+342 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801562950>])
+[<lux.game_objects.CityTile object at 0x0000028801563670>, <lux.game_objects.CityTile object at 0x00000288015624A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1E890>])
+[<lux.game_objects.CityTile object at 0x000002423FC1D420>]
+dict_values([<lux.game_objects.City object at 0x00000288014E66B0>])
+[<lux.game_objects.CityTile object at 0x00000288014E6EC0>, <lux.game_objects.CityTile object at 0x00000288014E58A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC4C130>])
+[<lux.game_objects.CityTile object at 0x000002423FC4D5A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC72230>])
+[<lux.game_objects.CityTile object at 0x000002423FC72470>]
+we want to build a city!
+ects.City object at 0x0000028801567220>])
+[<lux.game_objects.CityTile object at 0x0000028801565A20>, <lux.game_objects.CityTile object at 0x0000028801565BD0>]
+345 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x0000028801576800>])
+[<lux.game_objects.CityTile object at 0x00000288015748E0>, <lux.game_objects.CityTile object at 0x00000288015771F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7CD0>])
+[<lux.game_objects.CityTile object at 0x000002423FBE6650>]
+dict_values([<lux.game_objects.City object at 0x000002423FC40AC0>])
+[<lux.game_objects.CityTile object at 0x000002423FC41780>]
+dict_values([<lux.game_objects.City object at 0x0000028801566350>])
+[<lux.game_objects.CityTile object at 0x00000288015656C0>, <lux.game_objects.CityTile object at 0x0000028801566920>]
+dict_values([<lux.game_objects.City object at 0x0000028801538610>])
+[<lux.game_objects.CityTile object at 0x000002880153BC10>, <lux.game_objects.CityTile object at 0x00000288015387F0>]
+we want to build a city!
+348 : Navigating to where we wish to build
+dict_values([<lux.game_objects.City object at 0x000002880151F2E0>])
+[<lux.game_objects.CityTile object at 0x000002880151CFA0>, <lux.game_objects.CityTile object at 0x000002880151D510>]
+dict_values([<lux.game_objects.City object at 0x000002423FC40670>])
+[<lux.game_objects.CityTile object at 0x000002423FC431F0>]
+dict_values([<lux.game_objects.City object at 0x000002880154F550>])
+[<lux.game_objects.CityTile object at 0x000002880154F640>, <lux.game_objects.CityTile object at 0x000002880154D0F0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC37250>])
+[<lux.game_objects.CityTile object at 0x000002423FC374C0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC28850>])
+[<lux.game_objects.CityTile object at 0x000002423FC2BB20>]
+lux.game_objects.CityTile object at 0x000002880155A350>]
+dict_values([<lux.game_objects.City object at 0x00000288015266B0>])
+[<lux.game_objects.CityTile object at 0x0000028801524EE0>, <lux.game_objects.CityTile object at 0x0000028801525C90>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58580>])
+[<lux.game_objects.CityTile object at 0x000002423FC5A7D0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC7A410>])
+[<lux.game_objects.CityTile object at 0x000002423FC79F30>]
+lux.game_objects.CityTile object at 0x0000028801540FD0>]
+dict_values([<lux.game_objects.City object at 0x0000028801546DA0>])
+[<lux.game_objects.CityTile object at 0x000002880157BCA0>, <lux.game_objects.CityTile object at 0x00000288015792A0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC58790>])
+[<lux.game_objects.CityTile object at 0x000002423FC58910>]
+dict_values([<lux.game_objects.City object at 0x0000028801542E30>])
+[<lux.game_objects.CityTile object at 0x00000288015417B0>, <lux.game_objects.CityTile object at 0x0000028801540370>]
+dict_values([<lux.game_objects.City object at 0x000002423FC45EA0>])
+[<lux.game_objects.CityTile object at 0x000002423FC470A0>]
+lux.game_objects.CityTile object at 0x00000288015367D0>]
+dict_values([<lux.game_objects.City object at 0x00000288014E7490>])
+[<lux.game_objects.CityTile object at 0x00000288014E7580>, <lux.game_objects.CityTile object at 0x00000288014E6E90>]
+dict_values([<lux.game_objects.City object at 0x000002423FBE7A30>])
+[<lux.game_objects.CityTile object at 0x000002423FBE7BE0>]
+dict_values([<lux.game_objects.City object at 0x000002423FC70430>])
+[<lux.game_objects.CityTile object at 0x000002423FC72A70>]
+lux.game_objects.CityTile object at 0x00000288015645B0>]
+dict_values([<lux.game_objects.City object at 0x0000028801560D30>])
+[<lux.game_objects.CityTile object at 0x00000288015629E0>, <lux.game_objects.CityTile object at 0x0000028801561900>]
+dict_values([<lux.game_objects.City object at 0x000002423FC1E9B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC1DBD0>]
+dict_values([<lux.game_objects.City object at 0x0000028801566620>])
+[<lux.game_objects.CityTile object at 0x0000028801564FD0>, <lux.game_objects.CityTile object at 0x0000028801566D40>]
+dict_values([<lux.game_objects.City object at 0x000002423FC702B0>])
+[<lux.game_objects.CityTile object at 0x000002423FC72650>]

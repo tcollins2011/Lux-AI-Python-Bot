@@ -1,0 +1,9 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\tyler\Desktop\Python Work\Lux-AI_Competition\Lux-Design-2021\kits\python\intermediate\main.py", line 3, in <module>
+    from agent import agent
+  File "C:\Users\tyler\Desktop\Python Work\Lux-AI_Competition\Lux-Design-2021\kits\python\intermediate\agent.py", line 7, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
